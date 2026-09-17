@@ -1,0 +1,1810 @@
+{
+  "mirror": {
+    "name": "习言道｜金砖国家集聚“大富矿”、“大工厂”、“大市场”",
+    "generated": "2026-09-18 02:37:17",
+    "strategy": "latency"
+  },
+  "fallback": true,
+  "nodes": {
+    "mirror-001": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/626085.shtml",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-002": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/790471.shtml",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-003": {
+      "region": "华南",
+      "url": "www.share.bjhxkd.cn/Article/details/189030.shtml",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-004": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/490895.shtml",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-005": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/738319.shtml",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-006": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/563890.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-007": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/729015.shtml",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-008": {
+      "region": "新加坡",
+      "url": "www.share.bjhxkd.cn/Article/details/421155.shtml",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-009": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/508829.shtml",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-010": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/202155.shtml",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-011": {
+      "region": "华东",
+      "url": "bjhxkd.cn/Article/details/306808.shtml",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-012": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/226910.shtml",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-013": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/898031.shtml",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-014": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/983812.shtml",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-015": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/267915.shtml",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-016": {
+      "region": "新加坡",
+      "url": "bjhxkd.cn/Article/details/848747.shtml",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-017": {
+      "region": "华北",
+      "url": "www.bjhxkd.cn/Article/details/615215.shtml",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-018": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/937671.shtml",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-019": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/019703.shtml",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-020": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/099146.shtml",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-021": {
+      "region": "新加坡",
+      "url": "bjhxkd.cn/Article/details/547638.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-022": {
+      "region": "华北",
+      "url": "www.bjhxkd.cn/Article/details/922270.shtml",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-023": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/433663.shtml",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-024": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/475937.shtml",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-025": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/675578.shtml",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-026": {
+      "region": "华北",
+      "url": "bjhxkd.cn/Article/details/593588.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-027": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/809917.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-028": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/019826.shtml",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-029": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/698090.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-030": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/471614.shtml",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-031": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/285303.shtml",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-032": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/392346.shtml",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-033": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/058191.shtml",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-034": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/241326.shtml",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-035": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/752255.shtml",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-036": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/988943.shtml",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-037": {
+      "region": "华北",
+      "url": "www.bjhxkd.cn/Article/details/525425.shtml",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-038": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/610837.shtml",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-039": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/845345.shtml",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-040": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/800394.shtml",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-041": {
+      "region": "新加坡",
+      "url": "bjhxkd.cn/Article/details/489708.shtml",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-042": {
+      "region": "华南",
+      "url": "www.bjhxkd.cn/Article/details/312857.shtml",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-043": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/891622.shtml",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-044": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/669542.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-045": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/615030.shtml",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-046": {
+      "region": "华北",
+      "url": "bjhxkd.cn/Article/details/736589.shtml",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-047": {
+      "region": "华北",
+      "url": "www.bjhxkd.cn/Article/details/431020.shtml",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-048": {
+      "region": "新加坡",
+      "url": "www.share.bjhxkd.cn/Article/details/500502.shtml",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-049": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/118504.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-050": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/052962.shtml",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-051": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/809992.shtml",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-052": {
+      "region": "华北",
+      "url": "www.bjhxkd.cn/Article/details/280872.shtml",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-053": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/134811.shtml",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-054": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/698696.shtml",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-055": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/743160.shtml",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-056": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/793433.shtml",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-057": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/551110.shtml",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-058": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/140314.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-059": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/281045.shtml",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-060": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/096426.shtml",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-061": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/175702.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-062": {
+      "region": "华北",
+      "url": "www.bjhxkd.cn/Article/details/842551.shtml",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-063": {
+      "region": "新加坡",
+      "url": "www.share.bjhxkd.cn/Article/details/808757.shtml",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-064": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/241486.shtml",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-065": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/800587.shtml",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-066": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/175767.shtml",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-067": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/212423.shtml",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-068": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/131272.shtml",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-069": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/125589.shtml",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-070": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/272394.shtml",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-071": {
+      "region": "华东",
+      "url": "bjhxkd.cn/Article/details/082360.shtml",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-072": {
+      "region": "华北",
+      "url": "www.bjhxkd.cn/Article/details/978836.shtml",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-073": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/341848.shtml",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-074": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/871766.shtml",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-075": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/607491.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-076": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/110139.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-077": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/862830.shtml",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-078": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/233196.shtml",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-079": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/879659.shtml",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-080": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/141808.shtml",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-081": {
+      "region": "新加坡",
+      "url": "bjhxkd.cn/Article/details/839902.shtml",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-082": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/687185.shtml",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-083": {
+      "region": "华南",
+      "url": "www.share.bjhxkd.cn/Article/details/508206.shtml",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-084": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/492892.shtml",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-085": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/834671.shtml",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-086": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/938742.shtml",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-087": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/211316.shtml",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-088": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/532811.shtml",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-089": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/634767.shtml",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-090": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/314757.shtml",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-091": {
+      "region": "新加坡",
+      "url": "bjhxkd.cn/Article/details/786452.shtml",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-092": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/395410.shtml",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-093": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/819237.shtml",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-094": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/147373.shtml",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-095": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/871565.shtml",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-096": {
+      "region": "华东",
+      "url": "bjhxkd.cn/Article/details/011206.shtml",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-097": {
+      "region": "华北",
+      "url": "www.bjhxkd.cn/Article/details/128227.shtml",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-098": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/655018.shtml",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-099": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/642553.shtml",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-100": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/853973.shtml",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-101": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/922174.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-102": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/189413.shtml",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-103": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/762739.shtml",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-104": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/390708.shtml",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-105": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/716301.shtml",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-106": {
+      "region": "华东",
+      "url": "bjhxkd.cn/Article/details/819280.shtml",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-107": {
+      "region": "华南",
+      "url": "www.bjhxkd.cn/Article/details/699036.shtml",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-108": {
+      "region": "华南",
+      "url": "www.share.bjhxkd.cn/Article/details/645162.shtml",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-109": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/339035.shtml",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-110": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/377781.shtml",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-111": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/887349.shtml",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-112": {
+      "region": "华南",
+      "url": "www.bjhxkd.cn/Article/details/173422.shtml",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-113": {
+      "region": "新加坡",
+      "url": "www.share.bjhxkd.cn/Article/details/515891.shtml",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-114": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/159008.shtml",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-115": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/172785.shtml",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-116": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/308907.shtml",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-117": {
+      "region": "香港",
+      "url": "www.bjhxkd.cn/Article/details/417370.shtml",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-118": {
+      "region": "华南",
+      "url": "www.share.bjhxkd.cn/Article/details/018681.shtml",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-119": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/926526.shtml",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-120": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/935365.shtml",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-121": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/349049.shtml",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-122": {
+      "region": "香港",
+      "url": "www.bjhxkd.cn/Article/details/195681.shtml",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-123": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/391835.shtml",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-124": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/156352.shtml",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-125": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/530953.shtml",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-126": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/762628.shtml",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-127": {
+      "region": "华北",
+      "url": "www.bjhxkd.cn/Article/details/176708.shtml",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-128": {
+      "region": "新加坡",
+      "url": "www.share.bjhxkd.cn/Article/details/539029.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-129": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/016331.shtml",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-130": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/623405.shtml",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-131": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/885245.shtml",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-132": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/089724.shtml",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-133": {
+      "region": "新加坡",
+      "url": "www.share.bjhxkd.cn/Article/details/766803.shtml",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-134": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/737571.shtml",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-135": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/952636.shtml",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-136": {
+      "region": "华北",
+      "url": "bjhxkd.cn/Article/details/006786.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-137": {
+      "region": "香港",
+      "url": "www.bjhxkd.cn/Article/details/545783.shtml",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-138": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/245728.shtml",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-139": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/714352.shtml",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-140": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/053734.shtml",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-141": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/677468.shtml",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-142": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/910786.shtml",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-143": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/938447.shtml",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-144": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/750972.shtml",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-145": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/505594.shtml",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-146": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/124909.shtml",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-147": {
+      "region": "香港",
+      "url": "www.bjhxkd.cn/Article/details/263893.shtml",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-148": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/323631.shtml",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-149": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/713437.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-150": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/273014.shtml",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-151": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/634899.shtml",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-152": {
+      "region": "华南",
+      "url": "www.bjhxkd.cn/Article/details/737182.shtml",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-153": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/590958.shtml",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-154": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/907228.shtml",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-155": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/289546.shtml",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-156": {
+      "region": "华东",
+      "url": "bjhxkd.cn/Article/details/187697.shtml",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-157": {
+      "region": "华北",
+      "url": "www.bjhxkd.cn/Article/details/807626.shtml",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-158": {
+      "region": "华南",
+      "url": "www.share.bjhxkd.cn/Article/details/453240.shtml",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-159": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/993456.shtml",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-160": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/881859.shtml",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-161": {
+      "region": "华东",
+      "url": "bjhxkd.cn/Article/details/941422.shtml",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-162": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/735567.shtml",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-163": {
+      "region": "华南",
+      "url": "www.share.bjhxkd.cn/Article/details/170432.shtml",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-164": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/352154.shtml",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-165": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/776448.shtml",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-166": {
+      "region": "新加坡",
+      "url": "bjhxkd.cn/Article/details/381237.shtml",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-167": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/283667.shtml",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-168": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/039641.shtml",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-169": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/171675.shtml",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-170": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/381770.shtml",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-171": {
+      "region": "华东",
+      "url": "bjhxkd.cn/Article/details/770715.shtml",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-172": {
+      "region": "华北",
+      "url": "www.bjhxkd.cn/Article/details/216661.shtml",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-173": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/552704.shtml",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-174": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/109915.shtml",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-175": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/680647.shtml",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-176": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/758796.shtml",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-177": {
+      "region": "华北",
+      "url": "www.bjhxkd.cn/Article/details/139226.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-178": {
+      "region": "华南",
+      "url": "www.share.bjhxkd.cn/Article/details/032565.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-179": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/805021.shtml",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-180": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/038442.shtml",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-181": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/953423.shtml",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-182": {
+      "region": "华南",
+      "url": "www.bjhxkd.cn/Article/details/690515.shtml",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-183": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/178583.shtml",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-184": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/447044.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-185": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/573183.shtml",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-186": {
+      "region": "华东",
+      "url": "bjhxkd.cn/Article/details/688405.shtml",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-187": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/202835.shtml",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-188": {
+      "region": "新加坡",
+      "url": "www.share.bjhxkd.cn/Article/details/684759.shtml",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-189": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/632265.shtml",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-190": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/910155.shtml",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-191": {
+      "region": "新加坡",
+      "url": "bjhxkd.cn/Article/details/690099.shtml",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-192": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/709504.shtml",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-193": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/345490.shtml",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-194": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/883460.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-195": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/252532.shtml",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-196": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/322482.shtml",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-197": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/286593.shtml",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-198": {
+      "region": "华南",
+      "url": "www.share.bjhxkd.cn/Article/details/610191.shtml",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-199": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/972897.shtml",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-200": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/278784.shtml",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-201": {
+      "region": "华北",
+      "url": "bjhxkd.cn/Article/details/003145.shtml",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-202": {
+      "region": "华南",
+      "url": "www.bjhxkd.cn/Article/details/788258.shtml",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-203": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/499278.shtml",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-204": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/221614.shtml",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-205": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/484346.shtml",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-206": {
+      "region": "华东",
+      "url": "bjhxkd.cn/Article/details/222136.shtml",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-207": {
+      "region": "香港",
+      "url": "www.bjhxkd.cn/Article/details/497354.shtml",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-208": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/428928.shtml",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-209": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/752707.shtml",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-210": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/685747.shtml",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-211": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/089389.shtml",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-212": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/558572.shtml",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-213": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/888647.shtml",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-214": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/439717.shtml",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-215": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/923263.shtml",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-216": {
+      "region": "华北",
+      "url": "bjhxkd.cn/Article/details/892715.shtml",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-217": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/749039.shtml",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-218": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/538684.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-219": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/366574.shtml",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-220": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/647041.shtml",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-221": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/972669.shtml",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-222": {
+      "region": "华南",
+      "url": "www.bjhxkd.cn/Article/details/231983.shtml",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-223": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/395764.shtml",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-224": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/557925.shtml",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-225": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/588585.shtml",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-226": {
+      "region": "新加坡",
+      "url": "bjhxkd.cn/Article/details/103041.shtml",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-227": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/071756.shtml",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-228": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/534006.shtml",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-229": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/958316.shtml",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-230": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/743346.shtml",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-231": {
+      "region": "华东",
+      "url": "bjhxkd.cn/Article/details/619242.shtml",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-232": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/954860.shtml",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-233": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/143248.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-234": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/479596.shtml",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-235": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/608300.shtml",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-236": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/231622.shtml",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-237": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/709175.shtml",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-238": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/061393.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-239": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/192158.shtml",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-240": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/650934.shtml",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-241": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/111815.shtml",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-242": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/804643.shtml",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-243": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/527234.shtml",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-244": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/086789.shtml",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-245": {
+      "region": "香港",
+      "url": "m.share.bjhxkd.cn/Article/details/024090.shtml",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-246": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/655315.shtml",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-247": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/894082.shtml",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-248": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/351162.shtml",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-249": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/597140.shtml",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-250": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/667573.shtml",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-251": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/115457.shtml",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-252": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/429235.shtml",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-253": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/355540.shtml",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-254": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/478877.shtml",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-255": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/235377.shtml",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-256": {
+      "region": "华北",
+      "url": "bjhxkd.cn/Article/details/477793.shtml",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-257": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/718962.shtml",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-258": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/328696.shtml",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-259": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/389929.shtml",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-260": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/144067.shtml",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-261": {
+      "region": "华北",
+      "url": "bjhxkd.cn/Article/details/906179.shtml",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-262": {
+      "region": "香港",
+      "url": "www.bjhxkd.cn/Article/details/798794.shtml",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-263": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/848842.shtml",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-264": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/228410.shtml",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-265": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/240760.shtml",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-266": {
+      "region": "华北",
+      "url": "bjhxkd.cn/Article/details/701213.shtml",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-267": {
+      "region": "香港",
+      "url": "www.bjhxkd.cn/Article/details/523900.shtml",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-268": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/379476.shtml",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-269": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/488530.shtml",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-270": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/992912.shtml",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-271": {
+      "region": "新加坡",
+      "url": "bjhxkd.cn/Article/details/448697.shtml",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-272": {
+      "region": "新加坡",
+      "url": "www.bjhxkd.cn/Article/details/209900.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-273": {
+      "region": "华北",
+      "url": "www.share.bjhxkd.cn/Article/details/189592.shtml",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-274": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/624736.shtml",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-275": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/520244.shtml",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-276": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/642998.shtml",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-277": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/600331.shtml",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-278": {
+      "region": "华南",
+      "url": "www.share.bjhxkd.cn/Article/details/629164.shtml",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-279": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/275396.shtml",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-280": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/697517.shtml",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-281": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/076227.shtml",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-282": {
+      "region": "香港",
+      "url": "www.bjhxkd.cn/Article/details/981071.shtml",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-283": {
+      "region": "华东",
+      "url": "www.share.bjhxkd.cn/Article/details/263618.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-284": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/404129.shtml",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-285": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/449143.shtml",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-286": {
+      "region": "华南",
+      "url": "bjhxkd.cn/Article/details/611352.shtml",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-287": {
+      "region": "香港",
+      "url": "www.bjhxkd.cn/Article/details/205368.shtml",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-288": {
+      "region": "华南",
+      "url": "www.share.bjhxkd.cn/Article/details/848662.shtml",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-289": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/531204.shtml",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-290": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/798363.shtml",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-291": {
+      "region": "华东",
+      "url": "bjhxkd.cn/Article/details/460923.shtml",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-292": {
+      "region": "香港",
+      "url": "www.bjhxkd.cn/Article/details/715708.shtml",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-293": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/447046.shtml",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-294": {
+      "region": "华北",
+      "url": "m.share.bjhxkd.cn/Article/details/294483.shtml",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-295": {
+      "region": "华东",
+      "url": "m.share.bjhxkd.cn/Article/details/560133.shtml",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-296": {
+      "region": "香港",
+      "url": "bjhxkd.cn/Article/details/633663.shtml",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-297": {
+      "region": "华东",
+      "url": "www.bjhxkd.cn/Article/details/935411.shtml",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-298": {
+      "region": "香港",
+      "url": "www.share.bjhxkd.cn/Article/details/517619.shtml",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-299": {
+      "region": "华南",
+      "url": "m.share.bjhxkd.cn/Article/details/639624.shtml",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-300": {
+      "region": "新加坡",
+      "url": "m.share.bjhxkd.cn/Article/details/332066.shtml",
+      "scheme": "http",
+      "weight": 15
+    }
+  }
+}
