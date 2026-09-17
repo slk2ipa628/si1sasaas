@@ -1,0 +1,1994 @@
+{
+  "policy": {
+    "name": "10年期美债收益率逼近5%！多国减持美债 传统“安全资产”面临考验",
+    "version": "1.0",
+    "owner": "王有龄",
+    "generated": "2026-09-18 02:36:50"
+  },
+  "groups": [
+    {
+      "name": "访问控制",
+      "code": "access",
+      "rules": [
+        {
+          "name": "佩斯科夫：俄总统普京是否参加G20峰会尚未确定",
+          "url": "bjhxkd.cn/Article/details/141689.shtml",
+          "action": "challenge",
+          "priority": 92,
+          "enabled": true
+        },
+        {
+          "name": "天龙三号官宣“归零” 天兵科技：行业机会窗口仍在 不会为保成功降低火箭性能",
+          "url": "www.bjhxkd.cn/Article/details/634342.shtml",
+          "action": "allow",
+          "priority": 15,
+          "enabled": true
+        },
+        {
+          "name": "深交所终止安徽久易农业股份有限公司创业板IPO审核",
+          "url": "www.share.bjhxkd.cn/Article/details/030195.shtml",
+          "action": "challenge",
+          "priority": 86,
+          "enabled": true
+        },
+        {
+          "name": "“5天3板”PCB牛股紧急澄清：未给英伟达供货！    年内股价涨逾50%",
+          "url": "m.share.bjhxkd.cn/Article/details/897626.shtml",
+          "action": "log",
+          "priority": 22,
+          "enabled": true
+        },
+        {
+          "name": "日本津轻海峡附近发生4.5级地震",
+          "url": "m.share.bjhxkd.cn/Article/details/631833.shtml",
+          "action": "log",
+          "priority": 3,
+          "enabled": true
+        },
+        {
+          "name": "代价沉重，为省几百万，星宇赴港上市果然遇阻，后悔也来不及了，给制造业敲响警钟",
+          "url": "bjhxkd.cn/Article/details/010644.shtml",
+          "action": "log",
+          "priority": 69,
+          "enabled": true
+        },
+        {
+          "name": "想关广告却被反复跳转 手机里的“退出键”去哪了？",
+          "url": "www.bjhxkd.cn/Article/details/913942.shtml",
+          "action": "log",
+          "priority": 80,
+          "enabled": true
+        },
+        {
+          "name": "伊朗总统佩泽希齐扬表示 如果美国结束封锁 霍尔木兹海峡将重新开放",
+          "url": "www.share.bjhxkd.cn/Article/details/933339.shtml",
+          "action": "allow",
+          "priority": 74,
+          "enabled": true
+        },
+        {
+          "name": "千叶珠宝的陨落",
+          "url": "m.share.bjhxkd.cn/Article/details/824175.shtml",
+          "action": "log",
+          "priority": 4,
+          "enabled": true
+        },
+        {
+          "name": "厄尔尼诺扰动供给 农产品期货价格升温",
+          "url": "m.share.bjhxkd.cn/Article/details/749401.shtml",
+          "action": "challenge",
+          "priority": 94,
+          "enabled": true
+        },
+        {
+          "name": "凯莱英获南方基金增持2.5万股 每股作价约140.25港元",
+          "url": "bjhxkd.cn/Article/details/234719.shtml",
+          "action": "log",
+          "priority": 95,
+          "enabled": true
+        },
+        {
+          "name": "提前开栓 我国最北城市进入供暖季",
+          "url": "www.bjhxkd.cn/Article/details/884429.shtml",
+          "action": "challenge",
+          "priority": 63,
+          "enabled": true
+        },
+        {
+          "name": "三甲苯溶剂油商品报价动态（2026-09-12）",
+          "url": "www.share.bjhxkd.cn/Article/details/839931.shtml",
+          "action": "log",
+          "priority": 62,
+          "enabled": true
+        },
+        {
+          "name": "印尼爪哇海附近发生6.2级左右地震",
+          "url": "m.share.bjhxkd.cn/Article/details/687270.shtml",
+          "action": "deny",
+          "priority": 25,
+          "enabled": true
+        },
+        {
+          "name": "纪念刘绍棠诞辰90周年座谈会在京举行",
+          "url": "m.share.bjhxkd.cn/Article/details/985398.shtml",
+          "action": "log",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "央企上市公司际华集团，通过融资性贸易等虚增营收96.6亿，3任董事长、3任总经理等13名相关责任人员被罚！",
+          "url": "bjhxkd.cn/Article/details/452136.shtml",
+          "action": "log",
+          "priority": 36,
+          "enabled": true
+        },
+        {
+          "name": "（乡村行·看振兴）广东黄塘镇：榴莲蜜薯铺就富民路",
+          "url": "www.bjhxkd.cn/Article/details/856012.shtml",
+          "action": "deny",
+          "priority": 79,
+          "enabled": true
+        },
+        {
+          "name": "绿植黄叶，罚款50——星宇股份最狠的不是裁员，是让员工互相开罚单",
+          "url": "www.share.bjhxkd.cn/Article/details/530119.shtml",
+          "action": "log",
+          "priority": 19,
+          "enabled": true
+        },
+        {
+          "name": "OpenAI“去英伟达化”首个试验品退役 模型行业进入快速淘汰期",
+          "url": "m.share.bjhxkd.cn/Article/details/913053.shtml",
+          "action": "deny",
+          "priority": 38,
+          "enabled": true
+        },
+        {
+          "name": "企步新长征 | 从“白鸽变黑”到联合国样本：一座百年矿山的长征接力",
+          "url": "m.share.bjhxkd.cn/Article/details/267455.shtml",
+          "action": "deny",
+          "priority": 47,
+          "enabled": true
+        },
+        {
+          "name": "水利部和中国气象局9月12日18时联合发布黄色山洪灾害气象预警",
+          "url": "bjhxkd.cn/Article/details/587767.shtml",
+          "action": "allow",
+          "priority": 12,
+          "enabled": true
+        },
+        {
+          "name": "常润股份：截至9月11日累计回购股份59.102万股",
+          "url": "www.bjhxkd.cn/Article/details/578756.shtml",
+          "action": "challenge",
+          "priority": 28,
+          "enabled": true
+        },
+        {
+          "name": "年纪轻轻，血管健康怎么就亮起红灯？医生提醒",
+          "url": "www.share.bjhxkd.cn/Article/details/062355.shtml",
+          "action": "allow",
+          "priority": 56,
+          "enabled": true
+        },
+        {
+          "name": "大摩：宁德时代受惠电池反内卷 上半年产能利用率95%远超行业",
+          "url": "m.share.bjhxkd.cn/Article/details/778721.shtml",
+          "action": "log",
+          "priority": 20,
+          "enabled": true
+        },
+        {
+          "name": "中新健康丨预防脑出血：8个症状要留意，6个习惯赶紧改",
+          "url": "m.share.bjhxkd.cn/Article/details/702124.shtml",
+          "action": "challenge",
+          "priority": 53,
+          "enabled": true
+        },
+        {
+          "name": "奥尔特曼排除OpenAI年内IPO，称AI安全工作尚未完成",
+          "url": "bjhxkd.cn/Article/details/210041.shtml",
+          "action": "deny",
+          "priority": 47,
+          "enabled": true
+        },
+        {
+          "name": "今日视点：如何看待“国产GPU四小龙”齐聚资本市场",
+          "url": "www.bjhxkd.cn/Article/details/927722.shtml",
+          "action": "challenge",
+          "priority": 84,
+          "enabled": true
+        },
+        {
+          "name": "习近平出席金砖国家领导人第十八次会晤第二阶段会议",
+          "url": "www.share.bjhxkd.cn/Article/details/084082.shtml",
+          "action": "challenge",
+          "priority": 46,
+          "enabled": true
+        },
+        {
+          "name": "印尼客轮倾覆已致6人遇难 130人失踪",
+          "url": "m.share.bjhxkd.cn/Article/details/116228.shtml",
+          "action": "allow",
+          "priority": 22,
+          "enabled": true
+        },
+        {
+          "name": "福龙马与华为签署环卫机器人领域具身智能战略合作协议",
+          "url": "m.share.bjhxkd.cn/Article/details/531978.shtml",
+          "action": "challenge",
+          "priority": 54,
+          "enabled": true
+        },
+        {
+          "name": "立足港澳实践 学者探讨“两制”台湾方案制度设计及有效治理",
+          "url": "bjhxkd.cn/Article/details/631158.shtml",
+          "action": "challenge",
+          "priority": 87,
+          "enabled": true
+        },
+        {
+          "name": "内蒙古呼和浩特：探秘和林格尔新区智能算力中心",
+          "url": "www.bjhxkd.cn/Article/details/754799.shtml",
+          "action": "allow",
+          "priority": 78,
+          "enabled": true
+        },
+        {
+          "name": "探访重庆长江文化：还江于民，让历史在江岸新生",
+          "url": "www.share.bjhxkd.cn/Article/details/841714.shtml",
+          "action": "deny",
+          "priority": 12,
+          "enabled": true
+        },
+        {
+          "name": "提高资本市场制度包容性 吸引优质企业扎根A股",
+          "url": "m.share.bjhxkd.cn/Article/details/320689.shtml",
+          "action": "deny",
+          "priority": 80,
+          "enabled": true
+        },
+        {
+          "name": "小摩：宁德时代维持“增持”评级 目标价725港元",
+          "url": "m.share.bjhxkd.cn/Article/details/258649.shtml",
+          "action": "deny",
+          "priority": 45,
+          "enabled": true
+        },
+        {
+          "name": "伊朗消息人士称 海湾合作委员会国家将听取伊朗-阿曼谈判结果和阿曼会议决定的简报",
+          "url": "bjhxkd.cn/Article/details/642823.shtml",
+          "action": "deny",
+          "priority": 2,
+          "enabled": true
+        },
+        {
+          "name": "闽超联赛：福州队主场1比2不敌厦门队",
+          "url": "www.bjhxkd.cn/Article/details/170446.shtml",
+          "action": "log",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "“不求毫无生气的一致，但求活生生的团结”，泰戈尔曾三次访华，对当下有何启示？",
+          "url": "www.share.bjhxkd.cn/Article/details/419041.shtml",
+          "action": "allow",
+          "priority": 78,
+          "enabled": true
+        },
+        {
+          "name": "发生了什么？有色ETF跳空下跌！华宝基金火线解读：情绪超跌成分明显，宏观扰动落地后或迎新阶段！",
+          "url": "m.share.bjhxkd.cn/Article/details/026148.shtml",
+          "action": "challenge",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "蒙蟹开捕 内蒙古河套盐碱水养出“生态蟹”",
+          "url": "m.share.bjhxkd.cn/Article/details/148029.shtml",
+          "action": "log",
+          "priority": 66,
+          "enabled": true
+        },
+        {
+          "name": "国家安全部党委书记、部长陈一新在《中国网信》杂志发表署名文章",
+          "url": "bjhxkd.cn/Article/details/925808.shtml",
+          "action": "allow",
+          "priority": 46,
+          "enabled": true
+        },
+        {
+          "name": "这样熬夜真会“要命”！身体出现这些情况，建议立即就医→",
+          "url": "www.bjhxkd.cn/Article/details/110162.shtml",
+          "action": "deny",
+          "priority": 70,
+          "enabled": true
+        },
+        {
+          "name": "第十八届中国国际种业博览会合肥举行 聚焦智能育种",
+          "url": "www.share.bjhxkd.cn/Article/details/517907.shtml",
+          "action": "deny",
+          "priority": 19,
+          "enabled": true
+        },
+        {
+          "name": "伊朗和阿曼将通报霍尔木兹海峡通航磋商结果",
+          "url": "m.share.bjhxkd.cn/Article/details/016477.shtml",
+          "action": "challenge",
+          "priority": 78,
+          "enabled": true
+        },
+        {
+          "name": "小七龄童在故乡浙江绍兴离世 享年84岁",
+          "url": "m.share.bjhxkd.cn/Article/details/848209.shtml",
+          "action": "deny",
+          "priority": 31,
+          "enabled": true
+        },
+        {
+          "name": "中超联赛：武汉三镇主场平河南俱乐部彩陶坊",
+          "url": "bjhxkd.cn/Article/details/914685.shtml",
+          "action": "challenge",
+          "priority": 40,
+          "enabled": true
+        },
+        {
+          "name": "哈萨克斯坦赛加羚羊数量超468万只 种群增长带来管理难题",
+          "url": "www.bjhxkd.cn/Article/details/593927.shtml",
+          "action": "challenge",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "俄称扎波罗热核电站燃料运输车队遭乌袭击致2人死亡",
+          "url": "www.share.bjhxkd.cn/Article/details/118601.shtml",
+          "action": "challenge",
+          "priority": 12,
+          "enabled": true
+        },
+        {
+          "name": "A股震荡分化，外资眼中的“黄金坑”在哪？",
+          "url": "m.share.bjhxkd.cn/Article/details/535521.shtml",
+          "action": "allow",
+          "priority": 77,
+          "enabled": true
+        },
+        {
+          "name": "（长征胜利90周年）红军长征粤北纪念馆焕新迎客 红色热土吸引港澳台侨参观者",
+          "url": "m.share.bjhxkd.cn/Article/details/460298.shtml",
+          "action": "allow",
+          "priority": 74,
+          "enabled": true
+        },
+        {
+          "name": "AI网球机器人全球爆单",
+          "url": "bjhxkd.cn/Article/details/208470.shtml",
+          "action": "deny",
+          "priority": 26,
+          "enabled": true
+        },
+        {
+          "name": "成都宠博会上演宠物T台秀",
+          "url": "www.bjhxkd.cn/Article/details/873302.shtml",
+          "action": "log",
+          "priority": 69,
+          "enabled": true
+        },
+        {
+          "name": "《2026中国餐饮业年度报告》发布",
+          "url": "www.share.bjhxkd.cn/Article/details/048439.shtml",
+          "action": "allow",
+          "priority": 21,
+          "enabled": true
+        },
+        {
+          "name": "南海热带低压13日将在越南登陆 海南强降雨仍持续",
+          "url": "m.share.bjhxkd.cn/Article/details/255832.shtml",
+          "action": "challenge",
+          "priority": 19,
+          "enabled": true
+        },
+        {
+          "name": "加油时一个举动导致终身伤残 很多人有这个误区",
+          "url": "m.share.bjhxkd.cn/Article/details/443467.shtml",
+          "action": "allow",
+          "priority": 37,
+          "enabled": true
+        },
+        {
+          "name": "宁夏泾源：书香不打烊 农家书屋陪伴少年课余时光",
+          "url": "bjhxkd.cn/Article/details/369805.shtml",
+          "action": "allow",
+          "priority": 9,
+          "enabled": true
+        },
+        {
+          "name": "9月12日外盘头条：沙特关闭东西向原油管道 美联储下周加息几成定局 对冲基金已大幅削减日元空头仓位",
+          "url": "www.bjhxkd.cn/Article/details/009824.shtml",
+          "action": "deny",
+          "priority": 28,
+          "enabled": true
+        },
+        {
+          "name": "卖得越多 利润越薄？车企半年报的“冰与火”之歌",
+          "url": "www.share.bjhxkd.cn/Article/details/719412.shtml",
+          "action": "allow",
+          "priority": 44,
+          "enabled": true
+        },
+        {
+          "name": "“琮谱——良渚遗址发现九十周年特展”在浙江杭州启幕",
+          "url": "m.share.bjhxkd.cn/Article/details/470726.shtml",
+          "action": "allow",
+          "priority": 73,
+          "enabled": true
+        },
+        {
+          "name": "瓦努阿图一渡轮失事已致1人死亡30余人失踪",
+          "url": "m.share.bjhxkd.cn/Article/details/237428.shtml",
+          "action": "allow",
+          "priority": 83,
+          "enabled": true
+        },
+        {
+          "name": "从赛场走向市场 南京新消费环境促“商文旅农融合”提速",
+          "url": "bjhxkd.cn/Article/details/595840.shtml",
+          "action": "challenge",
+          "priority": 93,
+          "enabled": true
+        },
+        {
+          "name": "2026总部经济大会暨（第六届）楼宇经济与城市高质量发展论坛在京举办",
+          "url": "www.bjhxkd.cn/Article/details/203617.shtml",
+          "action": "challenge",
+          "priority": 82,
+          "enabled": true
+        },
+        {
+          "name": "渣打集团于9月10日斥资812.47万英镑回购35.8万股",
+          "url": "www.share.bjhxkd.cn/Article/details/373586.shtml",
+          "action": "allow",
+          "priority": 74,
+          "enabled": true
+        },
+        {
+          "name": "9月14日，年内发行价最低的新股来了",
+          "url": "m.share.bjhxkd.cn/Article/details/229985.shtml",
+          "action": "log",
+          "priority": 46,
+          "enabled": true
+        },
+        {
+          "name": "摩根大通在遭受损失后暂停Situation Awareness相关贷款业务",
+          "url": "m.share.bjhxkd.cn/Article/details/291573.shtml",
+          "action": "log",
+          "priority": 90,
+          "enabled": true
+        },
+        {
+          "name": "宁夏供销系统启动农业社会化服务提质增效行动",
+          "url": "bjhxkd.cn/Article/details/234100.shtml",
+          "action": "log",
+          "priority": 72,
+          "enabled": true
+        },
+        {
+          "name": "全球产业格局生变 中国企业高质量出海迎接新机遇",
+          "url": "www.bjhxkd.cn/Article/details/690269.shtml",
+          "action": "challenge",
+          "priority": 1,
+          "enabled": true
+        },
+        {
+          "name": "WCLC大会开幕！一文搞懂创新药临床指标",
+          "url": "www.share.bjhxkd.cn/Article/details/461257.shtml",
+          "action": "challenge",
+          "priority": 95,
+          "enabled": true
+        },
+        {
+          "name": "腾讯、字节、百度提前抢人 奖学金每人可拿20万！",
+          "url": "m.share.bjhxkd.cn/Article/details/175041.shtml",
+          "action": "challenge",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "宁夏兴庆：沉浸式民族团结活动点亮商圈烟火同心景",
+          "url": "m.share.bjhxkd.cn/Article/details/229131.shtml",
+          "action": "deny",
+          "priority": 17,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "name": "请求限制",
+      "code": "limit",
+      "rules": [
+        {
+          "name": "太乙圣莲欲“复活”哪吒汽车",
+          "url": "bjhxkd.cn/Article/details/952060.shtml",
+          "action": "deny",
+          "priority": 33,
+          "enabled": true
+        },
+        {
+          "name": "古香有新职 吉林传统香艺职业化传承启程",
+          "url": "www.bjhxkd.cn/Article/details/911890.shtml",
+          "action": "allow",
+          "priority": 21,
+          "enabled": true
+        },
+        {
+          "name": "AI时代科技投资：从普涨到分化，资产怎么配？",
+          "url": "www.share.bjhxkd.cn/Article/details/153976.shtml",
+          "action": "log",
+          "priority": 85,
+          "enabled": true
+        },
+        {
+          "name": "印尼失联客轮已确认沉没 船上无中国公民",
+          "url": "m.share.bjhxkd.cn/Article/details/280693.shtml",
+          "action": "deny",
+          "priority": 87,
+          "enabled": true
+        },
+        {
+          "name": "让书“找到”人：大学图书馆如何破圈",
+          "url": "m.share.bjhxkd.cn/Article/details/884159.shtml",
+          "action": "challenge",
+          "priority": 68,
+          "enabled": true
+        },
+        {
+          "name": "“红通人员”、外逃职务犯罪嫌疑人曾能贵被引渡回中国",
+          "url": "bjhxkd.cn/Article/details/283882.shtml",
+          "action": "deny",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "被指滥用控股股东控制权伪造签名转移3.58亿元资产，ST东时被子公司股东起诉索赔1.19亿元",
+          "url": "www.bjhxkd.cn/Article/details/635108.shtml",
+          "action": "deny",
+          "priority": 60,
+          "enabled": true
+        },
+        {
+          "name": "南航将正式复航广州-新德里直飞航线",
+          "url": "www.share.bjhxkd.cn/Article/details/114164.shtml",
+          "action": "challenge",
+          "priority": 64,
+          "enabled": true
+        },
+        {
+          "name": "2026年达喀尔青奥会圣火抵达塞内加尔",
+          "url": "m.share.bjhxkd.cn/Article/details/851481.shtml",
+          "action": "challenge",
+          "priority": 58,
+          "enabled": true
+        },
+        {
+          "name": "自然资源部：临时用地管理文件修订面向社会公开征求意见",
+          "url": "m.share.bjhxkd.cn/Article/details/480477.shtml",
+          "action": "deny",
+          "priority": 48,
+          "enabled": true
+        },
+        {
+          "name": "中国水产养殖创新实践亮相联合国粮农组织渔委会",
+          "url": "bjhxkd.cn/Article/details/456832.shtml",
+          "action": "challenge",
+          "priority": 39,
+          "enabled": true
+        },
+        {
+          "name": "美股三大指数集体收涨 戴尔科技大涨11%",
+          "url": "www.bjhxkd.cn/Article/details/384291.shtml",
+          "action": "challenge",
+          "priority": 70,
+          "enabled": true
+        },
+        {
+          "name": "河南公布一批粉尘涉爆举报案例 多家企业在危险场所内设办公室",
+          "url": "www.share.bjhxkd.cn/Article/details/595322.shtml",
+          "action": "deny",
+          "priority": 67,
+          "enabled": true
+        },
+        {
+          "name": "为全球南方聚力 启金砖合作新程——中共中央政治局委员、外交部长王毅谈习近平主席赴印度出席金砖国家领导人第十八次会晤",
+          "url": "m.share.bjhxkd.cn/Article/details/009358.shtml",
+          "action": "challenge",
+          "priority": 88,
+          "enabled": true
+        },
+        {
+          "name": "南海热带低压生成 海南启动防汛防风四级应急响应",
+          "url": "m.share.bjhxkd.cn/Article/details/318034.shtml",
+          "action": "challenge",
+          "priority": 11,
+          "enabled": true
+        },
+        {
+          "name": "千余专家学者齐聚哈尔滨 共研动力装备关键技术",
+          "url": "bjhxkd.cn/Article/details/930273.shtml",
+          "action": "challenge",
+          "priority": 73,
+          "enabled": true
+        },
+        {
+          "name": "2026贵阳国际网球公开赛：舒布拉泽获得女单冠军",
+          "url": "www.bjhxkd.cn/Article/details/647490.shtml",
+          "action": "deny",
+          "priority": 61,
+          "enabled": true
+        },
+        {
+          "name": "宁夏：青少年乐享科普嘉年华",
+          "url": "www.share.bjhxkd.cn/Article/details/714176.shtml",
+          "action": "log",
+          "priority": 41,
+          "enabled": true
+        },
+        {
+          "name": "华友钴业旗下津巴布韦华景科技通过ISO 37301认证",
+          "url": "m.share.bjhxkd.cn/Article/details/315420.shtml",
+          "action": "log",
+          "priority": 65,
+          "enabled": true
+        },
+        {
+          "name": "FCC靴子落地，光模块最大风险解除？",
+          "url": "m.share.bjhxkd.cn/Article/details/513541.shtml",
+          "action": "allow",
+          "priority": 10,
+          "enabled": true
+        },
+        {
+          "name": "国家算力互联互通区域（河北）节点正式启用",
+          "url": "bjhxkd.cn/Article/details/366696.shtml",
+          "action": "challenge",
+          "priority": 16,
+          "enabled": true
+        },
+        {
+          "name": "玉米油商品报价动态（2026-09-12）",
+          "url": "www.bjhxkd.cn/Article/details/862706.shtml",
+          "action": "allow",
+          "priority": 18,
+          "enabled": true
+        },
+        {
+          "name": "警惕“躺赚”陷阱！征信良好的普通人为何沦为“职业背债人”",
+          "url": "www.share.bjhxkd.cn/Article/details/124046.shtml",
+          "action": "log",
+          "priority": 29,
+          "enabled": true
+        },
+        {
+          "name": "2026亚洲尾波滑水系列赛（中国石家庄站）开赛",
+          "url": "m.share.bjhxkd.cn/Article/details/162121.shtml",
+          "action": "deny",
+          "priority": 89,
+          "enabled": true
+        },
+        {
+          "name": "考察粤北韶关红色热土 广东新阶层人士深度感悟长征伟力",
+          "url": "m.share.bjhxkd.cn/Article/details/577538.shtml",
+          "action": "allow",
+          "priority": 54,
+          "enabled": true
+        },
+        {
+          "name": "“第二届天山对话：科技赋能 产业向新”活动在乌鲁木齐举行",
+          "url": "bjhxkd.cn/Article/details/273521.shtml",
+          "action": "allow",
+          "priority": 58,
+          "enabled": true
+        },
+        {
+          "name": "据报道 Anthropic联合创始人兼首席执行官表示 必须放缓提升AI模型能力的速度",
+          "url": "www.bjhxkd.cn/Article/details/973717.shtml",
+          "action": "allow",
+          "priority": 21,
+          "enabled": true
+        },
+        {
+          "name": "“AI毁灭人类”警报拉响！万亿算力资本裹挟下 OpenAI和Anthropic不敢停 “AI对齐”之父：超级智能可能在2027年出现 当下是监管黄金窗口",
+          "url": "www.share.bjhxkd.cn/Article/details/863028.shtml",
+          "action": "allow",
+          "priority": 57,
+          "enabled": true
+        },
+        {
+          "name": "直播海报：国务院政策例行吹风会：加强中小企业回款难问题治理有关工作情况",
+          "url": "m.share.bjhxkd.cn/Article/details/897026.shtml",
+          "action": "deny",
+          "priority": 10,
+          "enabled": true
+        },
+        {
+          "name": "海南升级防汛防风应急响应至二级 已转移群众7000余人",
+          "url": "m.share.bjhxkd.cn/Article/details/517079.shtml",
+          "action": "allow",
+          "priority": 10,
+          "enabled": true
+        },
+        {
+          "name": "空座位背后，谁在制造地缘暗流？ | 新漫评",
+          "url": "bjhxkd.cn/Article/details/209725.shtml",
+          "action": "log",
+          "priority": 25,
+          "enabled": true
+        },
+        {
+          "name": "中央组织部会同有关部委修订印发“5个办法” 进一步加强行业事业单位领导人员管理",
+          "url": "www.bjhxkd.cn/Article/details/155336.shtml",
+          "action": "deny",
+          "priority": 36,
+          "enabled": true
+        },
+        {
+          "name": "京菜名片北京烤鸭美食推广季活动亮相王府井大街",
+          "url": "www.share.bjhxkd.cn/Article/details/043359.shtml",
+          "action": "allow",
+          "priority": 34,
+          "enabled": true
+        },
+        {
+          "name": "习言道｜开启金砖合作第三个“金色十年”",
+          "url": "m.share.bjhxkd.cn/Article/details/558190.shtml",
+          "action": "deny",
+          "priority": 57,
+          "enabled": true
+        },
+        {
+          "name": "胡塞武装称夺取也门西部约5400平方公里土地",
+          "url": "m.share.bjhxkd.cn/Article/details/850927.shtml",
+          "action": "deny",
+          "priority": 39,
+          "enabled": true
+        },
+        {
+          "name": "厄尔尼诺将达“超强”级别 该如何应对极端天气？",
+          "url": "bjhxkd.cn/Article/details/243099.shtml",
+          "action": "log",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "2026广东旅博会收官 实现交易额突破8000万元",
+          "url": "www.bjhxkd.cn/Article/details/050202.shtml",
+          "action": "challenge",
+          "priority": 26,
+          "enabled": true
+        },
+        {
+          "name": "北京立法促进民族团结进步 以首善标准建设示范城市",
+          "url": "www.share.bjhxkd.cn/Article/details/558765.shtml",
+          "action": "deny",
+          "priority": 5,
+          "enabled": true
+        },
+        {
+          "name": "全球知名铁人三项赛首次落地大理：中美选手分获男女冠军",
+          "url": "m.share.bjhxkd.cn/Article/details/001458.shtml",
+          "action": "challenge",
+          "priority": 13,
+          "enabled": true
+        },
+        {
+          "name": "小摩：汇丰控股维持“增持”评级 目标价205港元",
+          "url": "m.share.bjhxkd.cn/Article/details/138443.shtml",
+          "action": "challenge",
+          "priority": 83,
+          "enabled": true
+        },
+        {
+          "name": "2026全国全民体能大赛巡回赛上海杨浦站圆满落幕",
+          "url": "bjhxkd.cn/Article/details/094343.shtml",
+          "action": "challenge",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "巴西央行将于9月15日进行最高10亿美元的即期美元拍卖",
+          "url": "www.bjhxkd.cn/Article/details/935278.shtml",
+          "action": "deny",
+          "priority": 15,
+          "enabled": true
+        },
+        {
+          "name": "闪迪：签署15亿美元循环信贷额度修订协议 2031年到期",
+          "url": "www.share.bjhxkd.cn/Article/details/514577.shtml",
+          "action": "allow",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "广西首个“用机器人造机器人”工厂投产",
+          "url": "m.share.bjhxkd.cn/Article/details/414770.shtml",
+          "action": "log",
+          "priority": 22,
+          "enabled": true
+        },
+        {
+          "name": "美以伊局势：特朗普指认伊朗或主导空袭沙特油管 伊朗南部传出爆炸声，伊曾试图用弹道导弹袭击美军军舰",
+          "url": "m.share.bjhxkd.cn/Article/details/812667.shtml",
+          "action": "deny",
+          "priority": 62,
+          "enabled": true
+        },
+        {
+          "name": "伊朗总统问谁规定美国能为世界做主",
+          "url": "bjhxkd.cn/Article/details/617632.shtml",
+          "action": "deny",
+          "priority": 39,
+          "enabled": true
+        },
+        {
+          "name": "胡塞武装称使用大量弹道导弹和无人机打击沙特军事设施",
+          "url": "www.bjhxkd.cn/Article/details/052007.shtml",
+          "action": "allow",
+          "priority": 87,
+          "enabled": true
+        },
+        {
+          "name": "欺诈发行、退市罚款，“看大门”也被罚300万",
+          "url": "www.share.bjhxkd.cn/Article/details/185272.shtml",
+          "action": "allow",
+          "priority": 51,
+          "enabled": true
+        },
+        {
+          "name": "夜空寄思念 香港上演无人机秀纪念张国荣诞辰70年",
+          "url": "m.share.bjhxkd.cn/Article/details/011222.shtml",
+          "action": "log",
+          "priority": 93,
+          "enabled": true
+        },
+        {
+          "name": "连续四天 央行隔夜逆回购如何精准“疏堵”？",
+          "url": "m.share.bjhxkd.cn/Article/details/455226.shtml",
+          "action": "log",
+          "priority": 2,
+          "enabled": true
+        },
+        {
+          "name": "习近平在金砖国家领导人第十八次会晤第二阶段会议的讲话（全文）",
+          "url": "bjhxkd.cn/Article/details/186502.shtml",
+          "action": "deny",
+          "priority": 32,
+          "enabled": true
+        },
+        {
+          "name": "第二十四届中国国际肉类工业展览会在山东青岛启幕",
+          "url": "www.bjhxkd.cn/Article/details/023732.shtml",
+          "action": "deny",
+          "priority": 64,
+          "enabled": true
+        },
+        {
+          "name": "滴滴企业版已累计服务超100万家企业，发布跨企业AI工具",
+          "url": "www.share.bjhxkd.cn/Article/details/580722.shtml",
+          "action": "log",
+          "priority": 30,
+          "enabled": true
+        },
+        {
+          "name": "菲律宾客船起火事故死亡人数升至76人",
+          "url": "m.share.bjhxkd.cn/Article/details/574351.shtml",
+          "action": "deny",
+          "priority": 37,
+          "enabled": true
+        },
+        {
+          "name": "哈塞特：白宫认为没有理由加息 但将百分之百支持美联储的决定",
+          "url": "m.share.bjhxkd.cn/Article/details/096089.shtml",
+          "action": "challenge",
+          "priority": 65,
+          "enabled": true
+        },
+        {
+          "name": "全球首秀落地成都 WDSF世界霹雳舞3V3混合团体锦标赛开赛",
+          "url": "bjhxkd.cn/Article/details/597405.shtml",
+          "action": "log",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "算力“提速”背后 精密测试守住毫厘关口",
+          "url": "www.bjhxkd.cn/Article/details/170592.shtml",
+          "action": "allow",
+          "priority": 31,
+          "enabled": true
+        },
+        {
+          "name": "华虹宏力发行1.91亿股代价股份",
+          "url": "www.share.bjhxkd.cn/Article/details/043219.shtml",
+          "action": "deny",
+          "priority": 9,
+          "enabled": true
+        },
+        {
+          "name": "上合组织数字经济（部长级）研讨班在京开班",
+          "url": "m.share.bjhxkd.cn/Article/details/189615.shtml",
+          "action": "challenge",
+          "priority": 17,
+          "enabled": true
+        },
+        {
+          "name": "视频|星宇股份股价4连跌 两周市值蒸发约28亿元",
+          "url": "m.share.bjhxkd.cn/Article/details/155951.shtml",
+          "action": "challenge",
+          "priority": 70,
+          "enabled": true
+        },
+        {
+          "name": "从“打卡游”到“生活圈”，免签带旺中俄跨境消费",
+          "url": "bjhxkd.cn/Article/details/810178.shtml",
+          "action": "challenge",
+          "priority": 93,
+          "enabled": true
+        },
+        {
+          "name": "据洲际交易所 截至9月8日当周 柴油投机者净多头头寸增加3465手",
+          "url": "www.bjhxkd.cn/Article/details/569615.shtml",
+          "action": "deny",
+          "priority": 1,
+          "enabled": true
+        },
+        {
+          "name": "光子产业生态大会举行 专家建言技术跨越从实验室到生产线",
+          "url": "www.share.bjhxkd.cn/Article/details/796265.shtml",
+          "action": "allow",
+          "priority": 22,
+          "enabled": true
+        },
+        {
+          "name": "四川美丰：坚持聚焦主业 围绕产业链延伸、技术升级、新产品迭代开展布局",
+          "url": "m.share.bjhxkd.cn/Article/details/378085.shtml",
+          "action": "deny",
+          "priority": 37,
+          "enabled": true
+        },
+        {
+          "name": "2026中国风险投资论坛在南京举办",
+          "url": "m.share.bjhxkd.cn/Article/details/221035.shtml",
+          "action": "challenge",
+          "priority": 78,
+          "enabled": true
+        },
+        {
+          "name": "“中泰人文交流国际学术研讨会”举行",
+          "url": "bjhxkd.cn/Article/details/312516.shtml",
+          "action": "allow",
+          "priority": 90,
+          "enabled": true
+        },
+        {
+          "name": "中信建投：加息“靴子”将落地 A股或迎反攻行情",
+          "url": "www.bjhxkd.cn/Article/details/901213.shtml",
+          "action": "challenge",
+          "priority": 15,
+          "enabled": true
+        },
+        {
+          "name": "广东揭阳非遗巡游送新兵 情义家书壮戎行",
+          "url": "www.share.bjhxkd.cn/Article/details/965972.shtml",
+          "action": "deny",
+          "priority": 80,
+          "enabled": true
+        },
+        {
+          "name": "创新药跌跌不休，什么原因？华宝基金港股通创新药ETF（520880）失守所有均线",
+          "url": "m.share.bjhxkd.cn/Article/details/834215.shtml",
+          "action": "allow",
+          "priority": 29,
+          "enabled": true
+        },
+        {
+          "name": "特朗普敦促美联储降息 表示美国利率应该全球最低",
+          "url": "m.share.bjhxkd.cn/Article/details/201426.shtml",
+          "action": "challenge",
+          "priority": 55,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "name": "内容过滤",
+      "code": "filter",
+      "rules": [
+        {
+          "name": "“苏超”八强之争进入白热化 南京主场力克镇江",
+          "url": "bjhxkd.cn/Article/details/805910.shtml",
+          "action": "log",
+          "priority": 61,
+          "enabled": true
+        },
+        {
+          "name": "密集召开多场会议！超20万亿元投向这里",
+          "url": "www.bjhxkd.cn/Article/details/605689.shtml",
+          "action": "log",
+          "priority": 90,
+          "enabled": true
+        },
+        {
+          "name": "12.5亿长三角联合基金来了，官方详解怎么投、投向哪",
+          "url": "www.share.bjhxkd.cn/Article/details/938631.shtml",
+          "action": "allow",
+          "priority": 59,
+          "enabled": true
+        },
+        {
+          "name": "沪市公司密集增持回购夯实A股内在稳定性基础",
+          "url": "m.share.bjhxkd.cn/Article/details/286333.shtml",
+          "action": "log",
+          "priority": 27,
+          "enabled": true
+        },
+        {
+          "name": "人这一辈子，一定要去一趟廊坊！",
+          "url": "m.share.bjhxkd.cn/Article/details/641597.shtml",
+          "action": "deny",
+          "priority": 49,
+          "enabled": true
+        },
+        {
+          "name": "布局太空算力 上海“明珠星座计划”亮相",
+          "url": "bjhxkd.cn/Article/details/369754.shtml",
+          "action": "deny",
+          "priority": 16,
+          "enabled": true
+        },
+        {
+          "name": "陈发树，拟减持301050",
+          "url": "www.bjhxkd.cn/Article/details/408410.shtml",
+          "action": "challenge",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "新奥能源获董事会主席王玉锁增持30万股 每股作价约48.51港元",
+          "url": "www.share.bjhxkd.cn/Article/details/885828.shtml",
+          "action": "allow",
+          "priority": 90,
+          "enabled": true
+        },
+        {
+          "name": "委内瑞拉总统夫妇辩护团队申请暂时释放第一夫人",
+          "url": "m.share.bjhxkd.cn/Article/details/848420.shtml",
+          "action": "allow",
+          "priority": 19,
+          "enabled": true
+        },
+        {
+          "name": "泉州肖厝口岸“白色石油”锂辉石进口创历史新高",
+          "url": "m.share.bjhxkd.cn/Article/details/918486.shtml",
+          "action": "challenge",
+          "priority": 23,
+          "enabled": true
+        },
+        {
+          "name": "每10分钟下线1台 柳州优必选万台级工业人形机器人超级智慧工厂投产",
+          "url": "bjhxkd.cn/Article/details/440937.shtml",
+          "action": "allow",
+          "priority": 5,
+          "enabled": true
+        },
+        {
+          "name": "绥芬河口岸深耕“双买双卖”做强跨境贸易新业态",
+          "url": "www.bjhxkd.cn/Article/details/840382.shtml",
+          "action": "deny",
+          "priority": 16,
+          "enabled": true
+        },
+        {
+          "name": "利比亚否认境内基地被乌克兰用于发射无人机",
+          "url": "www.share.bjhxkd.cn/Article/details/412600.shtml",
+          "action": "deny",
+          "priority": 47,
+          "enabled": true
+        },
+        {
+          "name": "英国议会否决“安乐死”合法化法案",
+          "url": "m.share.bjhxkd.cn/Article/details/432924.shtml",
+          "action": "deny",
+          "priority": 57,
+          "enabled": true
+        },
+        {
+          "name": "欧洲央行高级官员：高油价可能迫使央行进一步加息",
+          "url": "m.share.bjhxkd.cn/Article/details/260963.shtml",
+          "action": "challenge",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "案值巨大 美前中情局官员与检方达成临时认罪协议",
+          "url": "bjhxkd.cn/Article/details/529499.shtml",
+          "action": "deny",
+          "priority": 59,
+          "enabled": true
+        },
+        {
+          "name": "万元折叠手机扎堆上市 手机行业探索技术溢价新路径",
+          "url": "www.bjhxkd.cn/Article/details/427998.shtml",
+          "action": "log",
+          "priority": 82,
+          "enabled": true
+        },
+        {
+          "name": "麻精药品“出院带药”新规将实施 会带来哪些影响？",
+          "url": "www.share.bjhxkd.cn/Article/details/758578.shtml",
+          "action": "allow",
+          "priority": 71,
+          "enabled": true
+        },
+        {
+          "name": "服贸会多个 “首次”，助中企出海走出深水区",
+          "url": "m.share.bjhxkd.cn/Article/details/508238.shtml",
+          "action": "allow",
+          "priority": 86,
+          "enabled": true
+        },
+        {
+          "name": "美国总统特朗普谈5000美元分红表示 说话算话",
+          "url": "m.share.bjhxkd.cn/Article/details/138888.shtml",
+          "action": "allow",
+          "priority": 49,
+          "enabled": true
+        },
+        {
+          "name": "电影文化节目《周末一起看电影》带观众读懂《大唐妖探》中式传统美学",
+          "url": "bjhxkd.cn/Article/details/731143.shtml",
+          "action": "deny",
+          "priority": 45,
+          "enabled": true
+        },
+        {
+          "name": "香港举办全球Al生物科技投资与RWA峰会 加速生物科技数字化发展",
+          "url": "www.bjhxkd.cn/Article/details/144195.shtml",
+          "action": "challenge",
+          "priority": 4,
+          "enabled": true
+        },
+        {
+          "name": "量子科技的“冷热之辨”",
+          "url": "www.share.bjhxkd.cn/Article/details/206760.shtml",
+          "action": "log",
+          "priority": 92,
+          "enabled": true
+        },
+        {
+          "name": "9月份拍牌下周六举行 警示价92900元",
+          "url": "m.share.bjhxkd.cn/Article/details/792592.shtml",
+          "action": "challenge",
+          "priority": 65,
+          "enabled": true
+        },
+        {
+          "name": "2026中国网球菁英团体邀请赛北京站圆满落幕",
+          "url": "m.share.bjhxkd.cn/Article/details/962840.shtml",
+          "action": "log",
+          "priority": 71,
+          "enabled": true
+        },
+        {
+          "name": "2026年广东省科普讲解大赛总决赛收官",
+          "url": "bjhxkd.cn/Article/details/593123.shtml",
+          "action": "allow",
+          "priority": 71,
+          "enabled": true
+        },
+        {
+          "name": "月之暗面：网传关于创始人及员工的信息系恶意造谣 已报案",
+          "url": "www.bjhxkd.cn/Article/details/087383.shtml",
+          "action": "deny",
+          "priority": 51,
+          "enabled": true
+        },
+        {
+          "name": "智谱：以零息＋溢价转股形式融资50亿美元 释放长期股权预期",
+          "url": "www.share.bjhxkd.cn/Article/details/780318.shtml",
+          "action": "log",
+          "priority": 1,
+          "enabled": true
+        },
+        {
+          "name": "乌官员：乌克兰准备10月举行新一轮乌美俄三方谈判",
+          "url": "m.share.bjhxkd.cn/Article/details/151255.shtml",
+          "action": "challenge",
+          "priority": 62,
+          "enabled": true
+        },
+        {
+          "name": "美众议院议长约翰逊表示 特朗普提出的5000美元支票计划不会增加政府债务",
+          "url": "m.share.bjhxkd.cn/Article/details/569559.shtml",
+          "action": "challenge",
+          "priority": 82,
+          "enabled": true
+        },
+        {
+          "name": "制茶能手齐聚黄山 比拼茶叶精制加工技艺",
+          "url": "bjhxkd.cn/Article/details/173820.shtml",
+          "action": "allow",
+          "priority": 94,
+          "enabled": true
+        },
+        {
+          "name": "对话摩尔线程张建中：打造国产GPU，一家民企的造“芯”路",
+          "url": "www.bjhxkd.cn/Article/details/378164.shtml",
+          "action": "log",
+          "priority": 39,
+          "enabled": true
+        },
+        {
+          "name": "刚果（金）埃博拉疫情累计确诊病例超6900例",
+          "url": "www.share.bjhxkd.cn/Article/details/581537.shtml",
+          "action": "log",
+          "priority": 25,
+          "enabled": true
+        },
+        {
+          "name": "创维数字：不存在“大股东持股比例仅13%”情形",
+          "url": "m.share.bjhxkd.cn/Article/details/442327.shtml",
+          "action": "log",
+          "priority": 38,
+          "enabled": true
+        },
+        {
+          "name": "锅炉阻垢剂商品报价动态（2026-09-12）",
+          "url": "m.share.bjhxkd.cn/Article/details/694832.shtml",
+          "action": "log",
+          "priority": 87,
+          "enabled": true
+        },
+        {
+          "name": "VinFast创始人交棒其子 推进业务扩张",
+          "url": "bjhxkd.cn/Article/details/009507.shtml",
+          "action": "challenge",
+          "priority": 4,
+          "enabled": true
+        },
+        {
+          "name": "2026体育文化全国行走进贵州遵义 郭伟阳与师生面对面",
+          "url": "www.bjhxkd.cn/Article/details/124490.shtml",
+          "action": "log",
+          "priority": 98,
+          "enabled": true
+        },
+        {
+          "name": "核聚变路线之争胜负未定，上海为何全线押注",
+          "url": "www.share.bjhxkd.cn/Article/details/939048.shtml",
+          "action": "challenge",
+          "priority": 47,
+          "enabled": true
+        },
+        {
+          "name": "习近平抵达新德里出席金砖国家领导人第十八次会晤",
+          "url": "m.share.bjhxkd.cn/Article/details/283042.shtml",
+          "action": "deny",
+          "priority": 41,
+          "enabled": true
+        },
+        {
+          "name": "纽约汇市：美元持稳 此前美国CPI公布后一度触及日内高点",
+          "url": "m.share.bjhxkd.cn/Article/details/477782.shtml",
+          "action": "deny",
+          "priority": 72,
+          "enabled": true
+        },
+        {
+          "name": "据俄罗斯统计局 俄罗斯8月CPI同比上涨6.33%",
+          "url": "bjhxkd.cn/Article/details/911425.shtml",
+          "action": "deny",
+          "priority": 53,
+          "enabled": true
+        },
+        {
+          "name": "花牌藏港韵 “乡愁”续初心——专访香港花牌扎作师傅蔡荣基",
+          "url": "www.bjhxkd.cn/Article/details/787176.shtml",
+          "action": "allow",
+          "priority": 85,
+          "enabled": true
+        },
+        {
+          "name": "（活力中国调研行）为让年轻人爱上农业，他们想造“智能播种机”",
+          "url": "www.share.bjhxkd.cn/Article/details/717151.shtml",
+          "action": "log",
+          "priority": 86,
+          "enabled": true
+        },
+        {
+          "name": "霍元甲逝世116周年 霍月华天津寻根祭祖",
+          "url": "m.share.bjhxkd.cn/Article/details/360377.shtml",
+          "action": "allow",
+          "priority": 28,
+          "enabled": true
+        },
+        {
+          "name": "聚焦智能科创新能源 台湾青年参访团在渝深入考察交流",
+          "url": "m.share.bjhxkd.cn/Article/details/625395.shtml",
+          "action": "log",
+          "priority": 34,
+          "enabled": true
+        },
+        {
+          "name": "胡塞武装锁喉曼德海峡 沙特输油管道多次遇袭 全球能源承压",
+          "url": "bjhxkd.cn/Article/details/164120.shtml",
+          "action": "log",
+          "priority": 27,
+          "enabled": true
+        },
+        {
+          "name": "2026中国沿黄河九省（区）自行车巡回赛（洛阳-济源站）开赛",
+          "url": "www.bjhxkd.cn/Article/details/810543.shtml",
+          "action": "log",
+          "priority": 18,
+          "enabled": true
+        },
+        {
+          "name": "广东机器人“军团”半年考：三条变化脉络清晰可见",
+          "url": "www.share.bjhxkd.cn/Article/details/305863.shtml",
+          "action": "log",
+          "priority": 59,
+          "enabled": true
+        },
+        {
+          "name": "上海旅游节大巡游开幕 世赛主题联动花车登场",
+          "url": "m.share.bjhxkd.cn/Article/details/792899.shtml",
+          "action": "challenge",
+          "priority": 95,
+          "enabled": true
+        },
+        {
+          "name": "银河通用发布声明：关于公司及管理团队的谣言均属不实，已报案",
+          "url": "m.share.bjhxkd.cn/Article/details/456145.shtml",
+          "action": "allow",
+          "priority": 56,
+          "enabled": true
+        },
+        {
+          "name": "沪指失守3900点！券商A股秋季策略现分歧：布局“金秋行情”，还是防守为王？",
+          "url": "bjhxkd.cn/Article/details/525553.shtml",
+          "action": "challenge",
+          "priority": 42,
+          "enabled": true
+        },
+        {
+          "name": "CPO龙头，环比暴增超45%！本周15股获南向资金大幅加仓",
+          "url": "www.bjhxkd.cn/Article/details/370063.shtml",
+          "action": "challenge",
+          "priority": 11,
+          "enabled": true
+        },
+        {
+          "name": "广西大化：黑山羊养殖富农家",
+          "url": "www.share.bjhxkd.cn/Article/details/785179.shtml",
+          "action": "allow",
+          "priority": 86,
+          "enabled": true
+        },
+        {
+          "name": "斯诺克英格兰公开赛：丁俊晖止步四强",
+          "url": "m.share.bjhxkd.cn/Article/details/169408.shtml",
+          "action": "deny",
+          "priority": 98,
+          "enabled": true
+        },
+        {
+          "name": "美国“经济血液”持续高烧！美银警告：真正威胁美国经济的是柴油价格",
+          "url": "m.share.bjhxkd.cn/Article/details/188475.shtml",
+          "action": "allow",
+          "priority": 72,
+          "enabled": true
+        },
+        {
+          "name": "福特因燃油箱问题在美国召回约22.35万辆汽车",
+          "url": "bjhxkd.cn/Article/details/102438.shtml",
+          "action": "challenge",
+          "priority": 99,
+          "enabled": true
+        },
+        {
+          "name": "朱保国辞任健康元董事长 林楠棋接任",
+          "url": "www.bjhxkd.cn/Article/details/895082.shtml",
+          "action": "deny",
+          "priority": 80,
+          "enabled": true
+        },
+        {
+          "name": "“圈养雪豹博流量” ？ 救护中心用科普回应谣言",
+          "url": "www.share.bjhxkd.cn/Article/details/380493.shtml",
+          "action": "log",
+          "priority": 81,
+          "enabled": true
+        },
+        {
+          "name": "2026乌鲁木齐马拉松鸣枪开跑",
+          "url": "m.share.bjhxkd.cn/Article/details/261393.shtml",
+          "action": "challenge",
+          "priority": 25,
+          "enabled": true
+        },
+        {
+          "name": "20%涨停效应显现？公募调研医药挖出这三家双创标的",
+          "url": "m.share.bjhxkd.cn/Article/details/147624.shtml",
+          "action": "challenge",
+          "priority": 12,
+          "enabled": true
+        },
+        {
+          "name": "“炒股”回本！爆仓漫画家苦熬18年 他做对了什么？",
+          "url": "bjhxkd.cn/Article/details/358306.shtml",
+          "action": "deny",
+          "priority": 25,
+          "enabled": true
+        },
+        {
+          "name": "近闻·习主席这样阐释金砖合作应有之义",
+          "url": "www.bjhxkd.cn/Article/details/789085.shtml",
+          "action": "log",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "超120万人预约、代购最高溢价34000元 iPhone Duo预售爆了！",
+          "url": "www.share.bjhxkd.cn/Article/details/531197.shtml",
+          "action": "deny",
+          "priority": 40,
+          "enabled": true
+        },
+        {
+          "name": "赣台会二十届 台商深耕江西",
+          "url": "m.share.bjhxkd.cn/Article/details/207193.shtml",
+          "action": "deny",
+          "priority": 89,
+          "enabled": true
+        },
+        {
+          "name": "具身智能融资不撒胡椒面了！两月超20亿 钱都往家庭机器人跑",
+          "url": "m.share.bjhxkd.cn/Article/details/690434.shtml",
+          "action": "log",
+          "priority": 41,
+          "enabled": true
+        },
+        {
+          "name": "普京说西方为重夺主导地位不择手段",
+          "url": "bjhxkd.cn/Article/details/002860.shtml",
+          "action": "deny",
+          "priority": 69,
+          "enabled": true
+        },
+        {
+          "name": "普京：欧洲在乌克兰部署军队意味着“与俄罗斯开战”",
+          "url": "www.bjhxkd.cn/Article/details/429641.shtml",
+          "action": "allow",
+          "priority": 61,
+          "enabled": true
+        },
+        {
+          "name": "美国政府本财年前11个月财政赤字达1.97万亿美元",
+          "url": "www.share.bjhxkd.cn/Article/details/810106.shtml",
+          "action": "log",
+          "priority": 57,
+          "enabled": true
+        },
+        {
+          "name": "从备孕到产后：科学营养如何守护生命早期健康？",
+          "url": "m.share.bjhxkd.cn/Article/details/142730.shtml",
+          "action": "log",
+          "priority": 45,
+          "enabled": true
+        },
+        {
+          "name": "个人消费贷贴息政策提额扩围",
+          "url": "m.share.bjhxkd.cn/Article/details/725269.shtml",
+          "action": "challenge",
+          "priority": 59,
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "name": "日志审计",
+      "code": "audit",
+      "rules": [
+        {
+          "name": "神州细胞：四名股东拟合计减持不超0.94%股份",
+          "url": "bjhxkd.cn/Article/details/192310.shtml",
+          "action": "deny",
+          "priority": 89,
+          "enabled": true
+        },
+        {
+          "name": "江苏雷利：已进入多家国内外机器人本体、模组厂商和灵巧手企业供应链",
+          "url": "www.bjhxkd.cn/Article/details/675913.shtml",
+          "action": "deny",
+          "priority": 22,
+          "enabled": true
+        },
+        {
+          "name": "擅自泄露病历病情要承担什么责任？患者维权记住这几步",
+          "url": "www.share.bjhxkd.cn/Article/details/232741.shtml",
+          "action": "deny",
+          "priority": 84,
+          "enabled": true
+        },
+        {
+          "name": "周末要闻汇总：国常会研究算力网建设有关工作",
+          "url": "m.share.bjhxkd.cn/Article/details/850827.shtml",
+          "action": "deny",
+          "priority": 5,
+          "enabled": true
+        },
+        {
+          "name": "“人工智能+软件”专项行动实施方案出炉 软件业竞争逻辑转向“拼智能体”",
+          "url": "m.share.bjhxkd.cn/Article/details/513927.shtml",
+          "action": "challenge",
+          "priority": 59,
+          "enabled": true
+        },
+        {
+          "name": "夜盘期货收盘",
+          "url": "bjhxkd.cn/Article/details/065825.shtml",
+          "action": "allow",
+          "priority": 79,
+          "enabled": true
+        },
+        {
+          "name": "漂白剂商品报价动态（2026-09-12）",
+          "url": "www.bjhxkd.cn/Article/details/440447.shtml",
+          "action": "deny",
+          "priority": 3,
+          "enabled": true
+        },
+        {
+          "name": "国缘2026“挥拍中国”羽毛球公开赛长三角赛区-扬州站开赛",
+          "url": "www.share.bjhxkd.cn/Article/details/545865.shtml",
+          "action": "allow",
+          "priority": 69,
+          "enabled": true
+        },
+        {
+          "name": "第十届北京王府井国际品牌节启幕 上演“时空蒙太奇”",
+          "url": "m.share.bjhxkd.cn/Article/details/115988.shtml",
+          "action": "deny",
+          "priority": 53,
+          "enabled": true
+        },
+        {
+          "name": "“未给英伟达供货！”“5天3板”PCB牛股紧急澄清，还有一只4倍牛股也公告否认",
+          "url": "m.share.bjhxkd.cn/Article/details/129206.shtml",
+          "action": "log",
+          "priority": 18,
+          "enabled": true
+        },
+        {
+          "name": "中国工程院院士邬贺铨：2030年中国算力有望占到全球30%",
+          "url": "bjhxkd.cn/Article/details/564204.shtml",
+          "action": "deny",
+          "priority": 73,
+          "enabled": true
+        },
+        {
+          "name": "多只宽基ETF成交放量 市场调整中资金借道积极入市",
+          "url": "www.bjhxkd.cn/Article/details/094208.shtml",
+          "action": "log",
+          "priority": 60,
+          "enabled": true
+        },
+        {
+          "name": "香港特区政府强烈反对外部势力污蔑抹黑法庭就“支联会”案的判刑",
+          "url": "www.share.bjhxkd.cn/Article/details/447036.shtml",
+          "action": "allow",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "史上最大IPO，英伟达正在洽谈投资100亿美元",
+          "url": "m.share.bjhxkd.cn/Article/details/901749.shtml",
+          "action": "log",
+          "priority": 26,
+          "enabled": true
+        },
+        {
+          "name": "重庆市政府办公厅副主任陶晓锋接受审查调查",
+          "url": "m.share.bjhxkd.cn/Article/details/968225.shtml",
+          "action": "log",
+          "priority": 26,
+          "enabled": true
+        },
+        {
+          "name": "星宇股份风波全记录：从暴力劝退到年报连环出错，一家上市公司为何屡踩红线？",
+          "url": "bjhxkd.cn/Article/details/619323.shtml",
+          "action": "challenge",
+          "priority": 72,
+          "enabled": true
+        },
+        {
+          "name": "iPhone 18 Pro系列多电商平台售罄",
+          "url": "www.bjhxkd.cn/Article/details/546568.shtml",
+          "action": "allow",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "视频|IPO前夕受试者死亡、高管爆粗口，易慕峰港股18A再递表，8月招股书悄悄删掉“安全性良好”",
+          "url": "www.share.bjhxkd.cn/Article/details/466188.shtml",
+          "action": "allow",
+          "priority": 61,
+          "enabled": true
+        },
+        {
+          "name": "京津冀智算供需清单发布 三地将加快构建环京算力供给走廊",
+          "url": "m.share.bjhxkd.cn/Article/details/337343.shtml",
+          "action": "challenge",
+          "priority": 35,
+          "enabled": true
+        },
+        {
+          "name": "花旗预测美联储9月加息 然后在2027年降息",
+          "url": "m.share.bjhxkd.cn/Article/details/436508.shtml",
+          "action": "allow",
+          "priority": 76,
+          "enabled": true
+        },
+        {
+          "name": "事关太空算力，四地倡议共建产业长廊",
+          "url": "bjhxkd.cn/Article/details/256971.shtml",
+          "action": "allow",
+          "priority": 20,
+          "enabled": true
+        },
+        {
+          "name": "一日七家券商领罚单！事涉经纪、“股市小作文”、反洗钱等，高管同步被追责",
+          "url": "www.bjhxkd.cn/Article/details/153459.shtml",
+          "action": "deny",
+          "priority": 31,
+          "enabled": true
+        },
+        {
+          "name": "光模块龙头：产能目标已实现！迎近百家机构调研",
+          "url": "www.share.bjhxkd.cn/Article/details/532022.shtml",
+          "action": "allow",
+          "priority": 72,
+          "enabled": true
+        },
+        {
+          "name": "美国公布印度、印尼和老挝太阳能产品反倾销及反补贴终裁",
+          "url": "m.share.bjhxkd.cn/Article/details/025853.shtml",
+          "action": "log",
+          "priority": 43,
+          "enabled": true
+        },
+        {
+          "name": "亚氯酸钠商品报价动态（2026-09-12）",
+          "url": "m.share.bjhxkd.cn/Article/details/803107.shtml",
+          "action": "log",
+          "priority": 8,
+          "enabled": true
+        },
+        {
+          "name": "英国海上贸易行动办公室：一艘船只在霍尔木兹海峡遇袭",
+          "url": "bjhxkd.cn/Article/details/480461.shtml",
+          "action": "deny",
+          "priority": 34,
+          "enabled": true
+        },
+        {
+          "name": "EDTA二钠盐商品报价动态（2026-09-12）",
+          "url": "www.bjhxkd.cn/Article/details/878576.shtml",
+          "action": "allow",
+          "priority": 34,
+          "enabled": true
+        },
+        {
+          "name": "话剧《老醯儿》太原首演 演绎醋香里的百年晋商",
+          "url": "www.share.bjhxkd.cn/Article/details/997972.shtml",
+          "action": "allow",
+          "priority": 97,
+          "enabled": true
+        },
+        {
+          "name": "突然，直线大跳水！美伊，局势突变！国际油价，大跌",
+          "url": "m.share.bjhxkd.cn/Article/details/390688.shtml",
+          "action": "deny",
+          "priority": 33,
+          "enabled": true
+        },
+        {
+          "name": "香港警察跆拳道会成立50周年 粤港澳选手在港竞技",
+          "url": "m.share.bjhxkd.cn/Article/details/236169.shtml",
+          "action": "allow",
+          "priority": 7,
+          "enabled": true
+        },
+        {
+          "name": "恺英网络：拟间接参股韩国游戏公司Wemade",
+          "url": "bjhxkd.cn/Article/details/704554.shtml",
+          "action": "log",
+          "priority": 4,
+          "enabled": true
+        },
+        {
+          "name": "估值冲上400亿，智元老板猛招应届生",
+          "url": "www.bjhxkd.cn/Article/details/022049.shtml",
+          "action": "allow",
+          "priority": 51,
+          "enabled": true
+        },
+        {
+          "name": "证监会严肃查处*ST卓然严重财务造假案件 上交所依法启动退市程序",
+          "url": "www.share.bjhxkd.cn/Article/details/079267.shtml",
+          "action": "log",
+          "priority": 19,
+          "enabled": true
+        },
+        {
+          "name": "第14届“亚洲论坛”在首尔举办",
+          "url": "m.share.bjhxkd.cn/Article/details/668701.shtml",
+          "action": "challenge",
+          "priority": 8,
+          "enabled": true
+        },
+        {
+          "name": "折叠屏争霸战打响！华为秒售罄，苹果被炒到49999元，小米起售价首破万",
+          "url": "m.share.bjhxkd.cn/Article/details/478408.shtml",
+          "action": "deny",
+          "priority": 95,
+          "enabled": true
+        },
+        {
+          "name": "印尼一艘载有243人的客轮失联",
+          "url": "bjhxkd.cn/Article/details/016660.shtml",
+          "action": "allow",
+          "priority": 36,
+          "enabled": true
+        },
+        {
+          "name": "当物流装上“AI引擎” 如何跑出新速度？",
+          "url": "www.bjhxkd.cn/Article/details/814775.shtml",
+          "action": "allow",
+          "priority": 97,
+          "enabled": true
+        },
+        {
+          "name": "上海“明珠星座计划”启动 全栈国产化打造吉瓦级天基计算星座",
+          "url": "www.share.bjhxkd.cn/Article/details/611205.shtml",
+          "action": "log",
+          "priority": 8,
+          "enabled": true
+        },
+        {
+          "name": "深圳市欢创科技股份有限公司通过港交所上市聆讯",
+          "url": "m.share.bjhxkd.cn/Article/details/238622.shtml",
+          "action": "log",
+          "priority": 50,
+          "enabled": true
+        },
+        {
+          "name": "Rapidus拟考虑2040年前后在月球建设半导体工厂",
+          "url": "m.share.bjhxkd.cn/Article/details/816047.shtml",
+          "action": "challenge",
+          "priority": 38,
+          "enabled": true
+        },
+        {
+          "name": "一锦织就世纪工程 平陆运河壮锦长卷首次亮相",
+          "url": "bjhxkd.cn/Article/details/428116.shtml",
+          "action": "log",
+          "priority": 59,
+          "enabled": true
+        },
+        {
+          "name": "25位菲尔兹奖得主联合警告：AI与数学正在出现“严重错位”",
+          "url": "www.bjhxkd.cn/Article/details/206084.shtml",
+          "action": "challenge",
+          "priority": 49,
+          "enabled": true
+        },
+        {
+          "name": "核查完成！7天6板大牛股，下周一复牌",
+          "url": "www.share.bjhxkd.cn/Article/details/638926.shtml",
+          "action": "deny",
+          "priority": 71,
+          "enabled": true
+        },
+        {
+          "name": "杭州宠物大佬收编20亿老牌电商",
+          "url": "m.share.bjhxkd.cn/Article/details/291128.shtml",
+          "action": "challenge",
+          "priority": 56,
+          "enabled": true
+        },
+        {
+          "name": "中国服贸向上跃升 体验经济蓬勃发展",
+          "url": "m.share.bjhxkd.cn/Article/details/319271.shtml",
+          "action": "deny",
+          "priority": 57,
+          "enabled": true
+        },
+        {
+          "name": "业绩暴增+机构扎堆调研，4只科技股上榜",
+          "url": "bjhxkd.cn/Article/details/849418.shtml",
+          "action": "allow",
+          "priority": 22,
+          "enabled": true
+        },
+        {
+          "name": "“疆煤入冀”哈密煤炭万吨首发专列运抵唐山港",
+          "url": "www.bjhxkd.cn/Article/details/904638.shtml",
+          "action": "allow",
+          "priority": 52,
+          "enabled": true
+        },
+        {
+          "name": "美联储面临巨大加息压力 沃什到了必须“拿出行动的”时候",
+          "url": "www.share.bjhxkd.cn/Article/details/160010.shtml",
+          "action": "deny",
+          "priority": 34,
+          "enabled": true
+        },
+        {
+          "name": "青海西宁欢乐健康跑点燃全民健身活力",
+          "url": "m.share.bjhxkd.cn/Article/details/862278.shtml",
+          "action": "allow",
+          "priority": 71,
+          "enabled": true
+        },
+        {
+          "name": "西藏隆子：“云端诊室”24小时在线 援藏医者守护高原健康",
+          "url": "m.share.bjhxkd.cn/Article/details/510504.shtml",
+          "action": "deny",
+          "priority": 28,
+          "enabled": true
+        },
+        {
+          "name": "2026中国—东盟（南宁）城市媒体圆桌会举办",
+          "url": "bjhxkd.cn/Article/details/299257.shtml",
+          "action": "allow",
+          "priority": 71,
+          "enabled": true
+        },
+        {
+          "name": "“麦积山雕塑论坛·2026”探索构建中国雕塑自主知识体系",
+          "url": "www.bjhxkd.cn/Article/details/220097.shtml",
+          "action": "allow",
+          "priority": 17,
+          "enabled": true
+        },
+        {
+          "name": "锡林浩特城市那达慕：民俗进城市，文化融邻里",
+          "url": "www.share.bjhxkd.cn/Article/details/303013.shtml",
+          "action": "allow",
+          "priority": 67,
+          "enabled": true
+        },
+        {
+          "name": "麦当劳中国亮相服贸会 发布5项线下消费成果案例",
+          "url": "m.share.bjhxkd.cn/Article/details/211877.shtml",
+          "action": "challenge",
+          "priority": 98,
+          "enabled": true
+        },
+        {
+          "name": "香港管弦乐团携大熊猫新作亮相成都 开启新乐季巡演",
+          "url": "m.share.bjhxkd.cn/Article/details/846970.shtml",
+          "action": "deny",
+          "priority": 28,
+          "enabled": true
+        },
+        {
+          "name": "多国好物跨越疆界 服贸会联通中外互惠共享",
+          "url": "bjhxkd.cn/Article/details/560572.shtml",
+          "action": "deny",
+          "priority": 46,
+          "enabled": true
+        },
+        {
+          "name": "创远信科重组过会 北交所公司并购步入常态化",
+          "url": "www.bjhxkd.cn/Article/details/148503.shtml",
+          "action": "allow",
+          "priority": 8,
+          "enabled": true
+        },
+        {
+          "name": "中信建投：加息“靴子”将落地，A股或迎反攻行情",
+          "url": "www.share.bjhxkd.cn/Article/details/984192.shtml",
+          "action": "deny",
+          "priority": 82,
+          "enabled": true
+        },
+        {
+          "name": "南庚戌：中企赴博茨瓦纳投资要做好长期发展的准备",
+          "url": "m.share.bjhxkd.cn/Article/details/588520.shtml",
+          "action": "challenge",
+          "priority": 32,
+          "enabled": true
+        },
+        {
+          "name": "探访贵州酒博会：从“卖酒”到“卖生活方式” 年轻消费渐成主角",
+          "url": "m.share.bjhxkd.cn/Article/details/211800.shtml",
+          "action": "deny",
+          "priority": 11,
+          "enabled": true
+        },
+        {
+          "name": "习言道｜“强权即公理”的逻辑行不通、早就应该摒弃",
+          "url": "bjhxkd.cn/Article/details/274524.shtml",
+          "action": "deny",
+          "priority": 25,
+          "enabled": true
+        },
+        {
+          "name": "严打股市“小作文” 证监会四份罚单剑指造谣传谣",
+          "url": "www.bjhxkd.cn/Article/details/659347.shtml",
+          "action": "deny",
+          "priority": 30,
+          "enabled": true
+        },
+        {
+          "name": "习近平出席金砖国家领导人第十八次会晤第二阶段会议并发表重要讲话",
+          "url": "www.share.bjhxkd.cn/Article/details/519574.shtml",
+          "action": "challenge",
+          "priority": 93,
+          "enabled": true
+        },
+        {
+          "name": "习近平结束出席金砖国家领导人第十八次会晤回到北京",
+          "url": "m.share.bjhxkd.cn/Article/details/669409.shtml",
+          "action": "log",
+          "priority": 53,
+          "enabled": true
+        },
+        {
+          "name": "花旗：创科实业维持“买入”评级 目标价168港元",
+          "url": "m.share.bjhxkd.cn/Article/details/616914.shtml",
+          "action": "allow",
+          "priority": 32,
+          "enabled": true
+        },
+        {
+          "name": "纳指科技ETF景顺：9月14日开市起至当日10:30停牌",
+          "url": "bjhxkd.cn/Article/details/631553.shtml",
+          "action": "challenge",
+          "priority": 83,
+          "enabled": true
+        },
+        {
+          "name": "今夜，突发公告！两只大牛股，紧急发声：不属实！",
+          "url": "www.bjhxkd.cn/Article/details/864293.shtml",
+          "action": "log",
+          "priority": 30,
+          "enabled": true
+        },
+        {
+          "name": "二乙醇单异丙醇胺85%商品报价动态（2026-09-12）",
+          "url": "www.share.bjhxkd.cn/Article/details/814897.shtml",
+          "action": "challenge",
+          "priority": 87,
+          "enabled": true
+        },
+        {
+          "name": "欧洲央行官员科赫尔：高油价可能迫使欧央行进一步加息",
+          "url": "m.share.bjhxkd.cn/Article/details/626107.shtml",
+          "action": "challenge",
+          "priority": 32,
+          "enabled": true
+        },
+        {
+          "name": "1900亿GPU龙头下周解禁，股价较高点已跌超50%",
+          "url": "m.share.bjhxkd.cn/Article/details/784883.shtml",
+          "action": "log",
+          "priority": 58,
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
