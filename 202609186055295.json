@@ -1,0 +1,1810 @@
+{
+  "mirror": {
+    "name": "尼日利亚国民议会暂停对南非官方访问",
+    "generated": "2026-09-18 09:08:13",
+    "strategy": "latency"
+  },
+  "fallback": true,
+  "nodes": {
+    "mirror-001": {
+      "region": "华南",
+      "url": "<code> www.917abrjghk.apuj2t.cn </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-002": {
+      "region": "新加坡",
+      "url": "<code> www.917azziz.zoj61v.cn </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-003": {
+      "region": "华南",
+      "url": "<code> www.917akcn.z22kp9.cn </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-004": {
+      "region": "新加坡",
+      "url": "<code> www.917aou.2mpfxp.cn </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-005": {
+      "region": "华东",
+      "url": "<code> www.917aokhct.bx1x0v.cn </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-006": {
+      "region": "香港",
+      "url": "<code> www.917adlw.sk1w9a.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-007": {
+      "region": "华东",
+      "url": "<code> www.917ajnbl.m01fm4.cn </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-008": {
+      "region": "新加坡",
+      "url": "<code> www.917auhajf.48zag3.cn </code>",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-009": {
+      "region": "新加坡",
+      "url": "<code> www.917auzc.gjkvk2.cn </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-010": {
+      "region": "华南",
+      "url": "<code> www.917ajvds.3a0xvi.cn </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-011": {
+      "region": "华东",
+      "url": "<code> www.917acooywk.8k3i67.cn </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-012": {
+      "region": "新加坡",
+      "url": "<code> www.917aajznop.2gey4h.cn </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-013": {
+      "region": "华东",
+      "url": "<code> www.917aqel.y5oukr.cn </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-014": {
+      "region": "华北",
+      "url": "<code> www.917awgruhq.957wxd.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-015": {
+      "region": "香港",
+      "url": "<code> www.917aidrnh.5fkq3q.cn </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-016": {
+      "region": "新加坡",
+      "url": "<code> www.917athf.46n60h.cn </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-017": {
+      "region": "华北",
+      "url": "<code> www.917avs.svt7g7.cn </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-018": {
+      "region": "华北",
+      "url": "<code> www.917axv.6l1f20.cn </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-019": {
+      "region": "华南",
+      "url": "<code> www.917aldefa.ayk27k.cn </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-020": {
+      "region": "华北",
+      "url": "<code> www.917axmlem.2kau0z.cn </code>",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-021": {
+      "region": "新加坡",
+      "url": "<code> www.917agqwasa.fd0fqc.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-022": {
+      "region": "华北",
+      "url": "<code> www.917aiws.4ugjpr.cn </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-023": {
+      "region": "华北",
+      "url": "<code> www.917aodvwx.1a6e3j.cn </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-024": {
+      "region": "香港",
+      "url": "<code> www.917aez.hgsc7t.cn </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-025": {
+      "region": "华南",
+      "url": "<code> www.917arjcber.8868mh.cn </code>",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-026": {
+      "region": "华北",
+      "url": "<code> www.917aghvqcf.ui629v.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-027": {
+      "region": "新加坡",
+      "url": "<code> www.917aprf.irkrz1.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-028": {
+      "region": "华东",
+      "url": "<code> www.917avdpyt.46f72c.cn </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-029": {
+      "region": "新加坡",
+      "url": "<code> www.917agce.sqm1w9.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-030": {
+      "region": "华东",
+      "url": "<code> www.917avc.hl6hxg.cn </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-031": {
+      "region": "华南",
+      "url": "<code> www.917adkq.vm544q.cn </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-032": {
+      "region": "新加坡",
+      "url": "<code> www.917aezyew.l4dpfy.cn </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-033": {
+      "region": "华北",
+      "url": "<code> www.917ayd.dcxfml.cn </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-034": {
+      "region": "香港",
+      "url": "<code> www.917akw.wvh6ue.cn </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-035": {
+      "region": "华北",
+      "url": "<code> www.917afmszv.iqlv5k.cn </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-036": {
+      "region": "华南",
+      "url": "<code> www.917aefndec.bf4ra3.cn </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-037": {
+      "region": "华北",
+      "url": "<code> www.917adbln.lac90v.cn </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-038": {
+      "region": "华东",
+      "url": "<code> www.917anyh.3tx71y.cn </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-039": {
+      "region": "华南",
+      "url": "<code> www.917alduxkk.m1c9w2.cn </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-040": {
+      "region": "华东",
+      "url": "<code> www.917anfevth.yf3xps.cn </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-041": {
+      "region": "新加坡",
+      "url": "<code> www.917aoj.qy228h.cn </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-042": {
+      "region": "华南",
+      "url": "<code> www.917aibki.2jzb8r.cn </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-043": {
+      "region": "香港",
+      "url": "<code> www.917aotqvmv.bti911.cn </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-044": {
+      "region": "新加坡",
+      "url": "<code> www.917ajkjbpi.uq93en.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-045": {
+      "region": "华北",
+      "url": "<code> www.917aikbsjz.we2y6z.cn </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-046": {
+      "region": "华北",
+      "url": "<code> www.917aeiwis.6us6yk.cn </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-047": {
+      "region": "华北",
+      "url": "<code> www.917axsf.sl30j4.cn </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-048": {
+      "region": "新加坡",
+      "url": "<code> www.917amcvdpk.6ptior.cn </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-049": {
+      "region": "香港",
+      "url": "<code> www.917apbq.m4pjm4.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-050": {
+      "region": "华东",
+      "url": "<code> www.917areb.12m5r2.cn </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-051": {
+      "region": "华南",
+      "url": "<code> www.917amnpv.yybj5i.cn </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-052": {
+      "region": "华北",
+      "url": "<code> www.917amc.k0xnat.cn </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-053": {
+      "region": "华东",
+      "url": "<code> www.917asksnxr.0ai5hu.cn </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-054": {
+      "region": "香港",
+      "url": "<code> www.917auqfp.9f40ze.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-055": {
+      "region": "香港",
+      "url": "<code> www.917ayfzkqe.e1xqwa.cn </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-056": {
+      "region": "华南",
+      "url": "<code> www.917ard.23q7il.cn </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-057": {
+      "region": "新加坡",
+      "url": "<code> www.917aobdxkx.94yghe.cn </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-058": {
+      "region": "香港",
+      "url": "<code> www.917aaxme.ktjhgb9.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-059": {
+      "region": "华南",
+      "url": "<code> www.917auz.bmhenf9.cn </code>",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-060": {
+      "region": "香港",
+      "url": "<code> www.917atvgfla.engjew6.cn </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-061": {
+      "region": "华南",
+      "url": "<code> www.917afx.utreup4.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-062": {
+      "region": "华北",
+      "url": "<code> www.917anqtk.gkmncl3.cn </code>",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-063": {
+      "region": "新加坡",
+      "url": "<code> www.917apymeft.qwgqix2.cn </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-064": {
+      "region": "华北",
+      "url": "<code> www.917awxy.mzxyuy3.cn </code>",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-065": {
+      "region": "华南",
+      "url": "<code> www.917atz.smrcix1.cn </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-066": {
+      "region": "华南",
+      "url": "<code> www.917acb.jtedgb7.cn </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-067": {
+      "region": "华东",
+      "url": "<code> www.917avmds.isjgfb0.cn </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-068": {
+      "region": "香港",
+      "url": "<code> www.917asu.veyhfz8.cn </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-069": {
+      "region": "香港",
+      "url": "<code> www.917amgveje.zrgrkf3.cn </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-070": {
+      "region": "华北",
+      "url": "<code> www.917aogohnk.wmxaus2.cn </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-071": {
+      "region": "华东",
+      "url": "<code> www.917azcawp.frzis6.cn </code>",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-072": {
+      "region": "华北",
+      "url": "<code> www.917aphsjg.gm6sw8.cn </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-073": {
+      "region": "香港",
+      "url": "<code> www.917akr.yau2g6.cn </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-074": {
+      "region": "华北",
+      "url": "<code> www.917anpwi.fx44l5.cn </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-075": {
+      "region": "华东",
+      "url": "<code> www.917avy.5hpmge.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-076": {
+      "region": "香港",
+      "url": "<code> www.917apo.p0l9q8.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-077": {
+      "region": "华东",
+      "url": "<code> www.917aza.bkrwo58.cn </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-078": {
+      "region": "华北",
+      "url": "<code> www.917ajhyng.bdfvz76.cn </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-079": {
+      "region": "华北",
+      "url": "<code> www.917axexvb.vgror30.cn </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-080": {
+      "region": "香港",
+      "url": "<code> www.917agtfgjv.jtffu93.cn </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-081": {
+      "region": "新加坡",
+      "url": "<code> www.917ajfwjpy.xu24ho.cn </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-082": {
+      "region": "华东",
+      "url": "<code> www.917azyh.gpzgap8.cn </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-083": {
+      "region": "华南",
+      "url": "<code> www.917awwiz.rzdzbf8.cn </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-084": {
+      "region": "新加坡",
+      "url": "<code> www.917aubaz.dameag9.cn </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-085": {
+      "region": "香港",
+      "url": "<code> www.917asown.fqaeap7.cn </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-086": {
+      "region": "华南",
+      "url": "<code> www.917asmw.eklxym5.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-087": {
+      "region": "新加坡",
+      "url": "<code> www.917akfd.gqlylz0.cn </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-088": {
+      "region": "华北",
+      "url": "<code> www.917adosy.gujagi6.cn </code>",
+      "scheme": "http",
+      "weight": 5
+    },
+    "mirror-089": {
+      "region": "新加坡",
+      "url": "<code> www.917aiqckpt.ktpweo2.cn </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-090": {
+      "region": "香港",
+      "url": "<code> www.917aji.ufrmgm7.cn </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-091": {
+      "region": "新加坡",
+      "url": "<code> www.917ajw.yfxcex6.cn </code>",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-092": {
+      "region": "华东",
+      "url": "<code> www.917azp.zppxga2.cn </code>",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-093": {
+      "region": "华东",
+      "url": "<code> www.917arim.iddgeq4.cn </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-094": {
+      "region": "华北",
+      "url": "<code> www.917asbyua.58v9gz.cn </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-095": {
+      "region": "华东",
+      "url": "<code> www.917asxcihz.anbnss1.cn </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-096": {
+      "region": "华东",
+      "url": "<code> www.917aacx.aqgizw6.cn </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-097": {
+      "region": "华北",
+      "url": "<code> www.917avaw.aqspbf7.cn </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-098": {
+      "region": "华东",
+      "url": "<code> www.917asvwg.axkrio1.cn </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-099": {
+      "region": "华北",
+      "url": "<code> www.917arbeh.bqobei9.cn </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-100": {
+      "region": "华南",
+      "url": "<code> www.917aetjrr.buyye18.cn </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-101": {
+      "region": "香港",
+      "url": "<code> www.917abnykcs.bvxbsg9.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-102": {
+      "region": "新加坡",
+      "url": "<code> www.917amfz.cbjsnq8.cn </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-103": {
+      "region": "香港",
+      "url": "<code> www.917ajalug.coowyx8.cn </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-104": {
+      "region": "华东",
+      "url": "<code> www.917akopwhl.cqetuf5.cn </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-105": {
+      "region": "华南",
+      "url": "<code> www.917aamwf.cuthiu9.cn </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-106": {
+      "region": "华东",
+      "url": "<code> www.917awz.daiaar4.cn </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-107": {
+      "region": "华南",
+      "url": "<code> www.917ariqp.dbwtny5.cn </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-108": {
+      "region": "华南",
+      "url": "<code> www.917aww.dbzopy6.cn </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-109": {
+      "region": "香港",
+      "url": "<code> www.917asxwi.ddlotu6.cn </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-110": {
+      "region": "香港",
+      "url": "<code> www.917aevsqs.deahni7.cn </code>",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-111": {
+      "region": "华南",
+      "url": "<code> www.917aac.dfsibj2.cn </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-112": {
+      "region": "华南",
+      "url": "<code> www.917atklu.dngknv0.cn </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-113": {
+      "region": "新加坡",
+      "url": "<code> www.917abyv.driywt7.cn </code>",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-114": {
+      "region": "新加坡",
+      "url": "<code> www.917afz.dtomzf5.cn </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-115": {
+      "region": "华南",
+      "url": "<code> www.917aspgfwc.dyzjtg9.cn </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-116": {
+      "region": "华南",
+      "url": "<code> www.917akvs.ecbekz7.cn </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-117": {
+      "region": "香港",
+      "url": "<code> www.917abe.edatyb8.cn </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-118": {
+      "region": "华南",
+      "url": "<code> www.917aqptk.efpwkw5.cn </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-119": {
+      "region": "香港",
+      "url": "<code> www.917anrsi.efyspk6.cn </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-120": {
+      "region": "新加坡",
+      "url": "<code> www.917afd.ekqush8.cn </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-121": {
+      "region": "华南",
+      "url": "<code> www.917acjv.emjcyu2.cn </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-122": {
+      "region": "香港",
+      "url": "<code> www.917adyyfv.eujixy0.cn </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-123": {
+      "region": "华北",
+      "url": "<code> www.917aorauj.eyycrx8.cn </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-124": {
+      "region": "华北",
+      "url": "<code> www.917ausn.fbaeox6.cn </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-125": {
+      "region": "新加坡",
+      "url": "<code> www.917aepu.fgsoze9.cn </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-126": {
+      "region": "香港",
+      "url": "<code> www.917afi.fijdko2.cn </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-127": {
+      "region": "华北",
+      "url": "<code> www.917aovg.fkgqom7.cn </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-128": {
+      "region": "新加坡",
+      "url": "<code> www.917adriqs.fllmxu0.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-129": {
+      "region": "华北",
+      "url": "<code> www.917aphy.fmsfqb0.cn </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-130": {
+      "region": "新加坡",
+      "url": "<code> www.917acx.fwnwqn2.cn </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-131": {
+      "region": "香港",
+      "url": "<code> www.917akseop.fxiedk7.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-132": {
+      "region": "新加坡",
+      "url": "<code> www.917agecqdz.gabqez2.cn </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-133": {
+      "region": "新加坡",
+      "url": "<code> www.917akypuc.gdsjo41.cn </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-134": {
+      "region": "华东",
+      "url": "<code> www.917apjgho.gllnnl7.cn </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-135": {
+      "region": "华南",
+      "url": "<code> www.917aylz.gllnol9.cn </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-136": {
+      "region": "华北",
+      "url": "<code> www.917auqo.grgbkv6.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-137": {
+      "region": "香港",
+      "url": "<code> www.917adj.gsfrjv2.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-138": {
+      "region": "华北",
+      "url": "<code> www.917aivyz.gwsuz35.cn </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-139": {
+      "region": "香港",
+      "url": "<code> www.917aqvzcc.hubtab9.cn </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-140": {
+      "region": "华南",
+      "url": "<code> www.917aoa.hvpbvl9.cn </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-141": {
+      "region": "华南",
+      "url": "<code> www.917asu.hxfhmn5.cn </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-142": {
+      "region": "新加坡",
+      "url": "<code> www.917aht.ihtsph2.cn </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-143": {
+      "region": "香港",
+      "url": "<code> www.917avgef.inslsz3.cn </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-144": {
+      "region": "华东",
+      "url": "<code> www.917aiqwzf.iotwlb9.cn </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-145": {
+      "region": "新加坡",
+      "url": "<code> www.917akuqcc.iscjxn4.cn </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-146": {
+      "region": "华南",
+      "url": "<code> www.917aei.iwllrz7.cn </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-147": {
+      "region": "香港",
+      "url": "<code> www.917aufv.ixizha6.cn </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-148": {
+      "region": "华东",
+      "url": "<code> www.917agm.iyvgrj9.cn </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-149": {
+      "region": "华南",
+      "url": "<code> www.917aixqb.izyuit9.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-150": {
+      "region": "华北",
+      "url": "<code> www.917azkbm.jehnid8.cn </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-151": {
+      "region": "华南",
+      "url": "<code> www.917asa.jhfewe2.cn </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-152": {
+      "region": "华南",
+      "url": "<code> www.917azej.jlflwv4.cn </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-153": {
+      "region": "华北",
+      "url": "<code> www.917ambxw.jobji94.cn </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-154": {
+      "region": "新加坡",
+      "url": "<code> www.917ahvda.jppnzi7.cn </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-155": {
+      "region": "华南",
+      "url": "<code> www.917aes.kbynlt2.cn </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-156": {
+      "region": "华东",
+      "url": "<code> www.917awobf.kcxcfp3.cn </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-157": {
+      "region": "华北",
+      "url": "<code> www.917aklq.khydil3.cn </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-158": {
+      "region": "华南",
+      "url": "<code> www.917aoczie.kiyeek7.cn </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-159": {
+      "region": "香港",
+      "url": "<code> www.917addlgln.kmnivx7.cn </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-160": {
+      "region": "香港",
+      "url": "<code> www.917ajxdgpy.komeuk5.cn </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-161": {
+      "region": "华东",
+      "url": "<code> www.917aqup.ladtgn3.cn </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-162": {
+      "region": "华东",
+      "url": "<code> www.917asks.lgqspa3.cn </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-163": {
+      "region": "华南",
+      "url": "<code> www.917ammbyil.lmxrxj8.cn </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-164": {
+      "region": "华东",
+      "url": "<code> www.917aomfxy.lnjtam7.cn </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-165": {
+      "region": "华北",
+      "url": "<code> www.917arh.mahzvv0.cn </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-166": {
+      "region": "新加坡",
+      "url": "<code> www.917alj.mkonxc3.cn </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-167": {
+      "region": "华东",
+      "url": "<code> www.917afijdrd.mkquqr3.cn </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-168": {
+      "region": "华东",
+      "url": "<code> www.917avxfg.mscivz2.cn </code>",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-169": {
+      "region": "香港",
+      "url": "<code> www.917adj.mvhonv4.cn </code>",
+      "scheme": "https",
+      "weight": 2
+    },
+    "mirror-170": {
+      "region": "华南",
+      "url": "<code> www.917asuz.mwfcwx0.cn </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-171": {
+      "region": "华东",
+      "url": "<code> www.917agpwhgr.nbhjbl0.cn </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-172": {
+      "region": "华北",
+      "url": "<code> www.917anmavxq.neyxuw3.cn </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-173": {
+      "region": "香港",
+      "url": "<code> www.917atpwrc.nnaegf6.cn </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-174": {
+      "region": "华南",
+      "url": "<code> www.917auextwr.noqdqg1.cn </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-175": {
+      "region": "华南",
+      "url": "<code> www.917azkpe.npxffp2.cn </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-176": {
+      "region": "香港",
+      "url": "<code> www.917aut.nqmyl03.cn </code>",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-177": {
+      "region": "华北",
+      "url": "<code> www.917asavxu.ntmxlq0.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-178": {
+      "region": "华南",
+      "url": "<code> www.917aadzlz.nudfux3.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-179": {
+      "region": "新加坡",
+      "url": "<code> www.917asc.oftuai4.cn </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-180": {
+      "region": "华东",
+      "url": "<code> www.917acjdyg.ofvnmk3.cn </code>",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-181": {
+      "region": "香港",
+      "url": "<code> www.917and.olpjyc9.cn </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-182": {
+      "region": "华南",
+      "url": "<code> www.917ajqi.ooowys8.cn </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-183": {
+      "region": "华东",
+      "url": "<code> www.917ammsn.ootggb7.cn </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-184": {
+      "region": "新加坡",
+      "url": "<code> www.917aeit.outanf2.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-185": {
+      "region": "华南",
+      "url": "<code> www.917ajajbpx.ovfyod0.cn </code>",
+      "scheme": "http",
+      "weight": 19
+    },
+    "mirror-186": {
+      "region": "华东",
+      "url": "<code> www.917asvd.owvltl3.cn </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-187": {
+      "region": "华东",
+      "url": "<code> www.917afl.pduxfl5.cn </code>",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-188": {
+      "region": "新加坡",
+      "url": "<code> www.917allsc.phjewc9.cn </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-189": {
+      "region": "香港",
+      "url": "<code> www.917axo.pnchwz9.cn </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-190": {
+      "region": "华南",
+      "url": "<code> www.917anige.psobfm8.cn </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-191": {
+      "region": "新加坡",
+      "url": "<code> www.917absm.pvmryg0.cn </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-192": {
+      "region": "华东",
+      "url": "<code> www.917afam.pzxzlj1.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-193": {
+      "region": "香港",
+      "url": "<code> www.917aeh.qhhtnm7.cn </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-194": {
+      "region": "新加坡",
+      "url": "<code> www.917aitp.qmbjjb8.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-195": {
+      "region": "华北",
+      "url": "<code> www.917alsom.qmyvlq2.cn </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-196": {
+      "region": "华南",
+      "url": "<code> www.917ayv.qrhnru6.cn </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-197": {
+      "region": "新加坡",
+      "url": "<code> www.917axxszug.qunuqk1.cn </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-198": {
+      "region": "华南",
+      "url": "<code> www.917aafess.qurcpm6.cn </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-199": {
+      "region": "华北",
+      "url": "<code> www.917appnke.qxghln7.cn </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-200": {
+      "region": "华北",
+      "url": "<code> www.917avkftho.ra4s1r.cn </code>",
+      "scheme": "http",
+      "weight": 12
+    },
+    "mirror-201": {
+      "region": "华北",
+      "url": "<code> www.917ate.rgehek7.cn </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-202": {
+      "region": "华南",
+      "url": "<code> www.917arbdg.rgydyt1.cn </code>",
+      "scheme": "http",
+      "weight": 14
+    },
+    "mirror-203": {
+      "region": "华北",
+      "url": "<code> www.917arf.rionrx5.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-204": {
+      "region": "华东",
+      "url": "<code> www.917aafhnhc.rjhxyc2.cn </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-205": {
+      "region": "华北",
+      "url": "<code> www.917akjnieq.rqkndi6.cn </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-206": {
+      "region": "华东",
+      "url": "<code> www.917alt.rqzydt5.cn </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-207": {
+      "region": "香港",
+      "url": "<code> www.917asie.rtixzr6.cn </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-208": {
+      "region": "华北",
+      "url": "<code> www.917avw.scjuwk8.cn </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-209": {
+      "region": "华东",
+      "url": "<code> www.917apign.sffocf8.cn </code>",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-210": {
+      "region": "华北",
+      "url": "<code> www.917afl.sixufh2.cn </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-211": {
+      "region": "香港",
+      "url": "<code> www.917avqbp.sjobu52.cn </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-212": {
+      "region": "华东",
+      "url": "<code> www.917akkn.tgjkat9.cn </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-213": {
+      "region": "华东",
+      "url": "<code> www.917agvwnk.ucnqld9.cn </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-214": {
+      "region": "新加坡",
+      "url": "<code> www.917amx.uelgxr1.cn </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-215": {
+      "region": "华北",
+      "url": "<code> www.917aokyxx.ul57sc.cn </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-216": {
+      "region": "华北",
+      "url": "<code> www.917anf.urclcj5.cn </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-217": {
+      "region": "新加坡",
+      "url": "<code> www.917acc.uxlpqe5.cn </code>",
+      "scheme": "https",
+      "weight": 18
+    },
+    "mirror-218": {
+      "region": "华北",
+      "url": "<code> www.917anansec.uyvdaf6.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-219": {
+      "region": "新加坡",
+      "url": "<code> www.917afk.uzbhnt7.cn </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-220": {
+      "region": "香港",
+      "url": "<code> www.917aud.vbafmr4.cn </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-221": {
+      "region": "华南",
+      "url": "<code> www.917abqu.vcmno71.cn </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-222": {
+      "region": "华南",
+      "url": "<code> www.917ayxue.vegmrx1.cn </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-223": {
+      "region": "香港",
+      "url": "<code> www.917amvikv.vhvzgg4.cn </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-224": {
+      "region": "新加坡",
+      "url": "<code> www.917atqtep.vjjitm1.cn </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-225": {
+      "region": "华南",
+      "url": "<code> www.917abbsg.vmoxyq4.cn </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-226": {
+      "region": "新加坡",
+      "url": "<code> www.917ajrdh.vpzsib4.cn </code>",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-227": {
+      "region": "新加坡",
+      "url": "<code> www.917axqxy.vrkqes6.cn </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-228": {
+      "region": "华东",
+      "url": "<code> www.917aoqv.vrxdho3.cn </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-229": {
+      "region": "香港",
+      "url": "<code> www.917awmulk.vuzdck8.cn </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-230": {
+      "region": "华东",
+      "url": "<code> www.917adnim.vvvfku8.cn </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-231": {
+      "region": "华东",
+      "url": "<code> www.917amubf.wcyhgg4.cn </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-232": {
+      "region": "华东",
+      "url": "<code> www.917aomgh.wj162b.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-233": {
+      "region": "华东",
+      "url": "<code> www.917aaypnkg.wlztjq9.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-234": {
+      "region": "华东",
+      "url": "<code> www.917aqstebt.wolcrk1.cn </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-235": {
+      "region": "新加坡",
+      "url": "<code> www.917aud.wpmhdh1.cn </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-236": {
+      "region": "香港",
+      "url": "<code> www.917aaytgq.wpxlek3.cn </code>",
+      "scheme": "https",
+      "weight": 17
+    },
+    "mirror-237": {
+      "region": "华东",
+      "url": "<code> www.917aocumpc.wvdtea9.cn </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-238": {
+      "region": "华北",
+      "url": "<code> www.917aanym.xeeaet7.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-239": {
+      "region": "华东",
+      "url": "<code> www.917aqb.xnlag53.cn </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-240": {
+      "region": "华南",
+      "url": "<code> www.917aoh.xqjfww4.cn </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-241": {
+      "region": "华南",
+      "url": "<code> www.917aqdjy.xruizu9.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-242": {
+      "region": "华东",
+      "url": "<code> www.917agikd.xrwbfy7.cn </code>",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-243": {
+      "region": "华东",
+      "url": "<code> www.917avh.xvljqx7.cn </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-244": {
+      "region": "香港",
+      "url": "<code> www.917ayqlpjy.ybpijx8.cn </code>",
+      "scheme": "http",
+      "weight": 9
+    },
+    "mirror-245": {
+      "region": "香港",
+      "url": "<code> www.917asxblmf.ygilrk7.cn </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-246": {
+      "region": "华南",
+      "url": "<code> www.917agoun.yidgus0.cn </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-247": {
+      "region": "新加坡",
+      "url": "<code> www.917aeorpb.yjrfbw9.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-248": {
+      "region": "香港",
+      "url": "<code> www.917axr.ylowyz9.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-249": {
+      "region": "华东",
+      "url": "<code> www.917avfjld.yngljr2.cn </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-250": {
+      "region": "新加坡",
+      "url": "<code> www.917anjk.ynxxzt5.cn </code>",
+      "scheme": "http",
+      "weight": 7
+    },
+    "mirror-251": {
+      "region": "香港",
+      "url": "<code> www.917aocdch.ywfqiy1.cn </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-252": {
+      "region": "新加坡",
+      "url": "<code> www.917aozpeh.yzxzti4.cn </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-253": {
+      "region": "华东",
+      "url": "<code> www.917awjzt.zbxdaa6.cn </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-254": {
+      "region": "新加坡",
+      "url": "<code> www.917ahnryok.zdrcpl7.cn </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-255": {
+      "region": "华东",
+      "url": "<code> www.917adqu.zgtcta4.cn </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-256": {
+      "region": "华北",
+      "url": "<code> www.917adowdwc.zpflt56.cn </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-257": {
+      "region": "华东",
+      "url": "<code> www.917agvjt.zqemz54.cn </code>",
+      "scheme": "https",
+      "weight": 12
+    },
+    "mirror-258": {
+      "region": "华北",
+      "url": "<code> www.917adbjrzd.zutocq7.cn </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-259": {
+      "region": "华北",
+      "url": "<code> www.917afg.zwlwwz2.cn </code>",
+      "scheme": "http",
+      "weight": 20
+    },
+    "mirror-260": {
+      "region": "华北",
+      "url": "<code> www.917apabmd.dz413.org.cn </code>",
+      "scheme": "http",
+      "weight": 10
+    },
+    "mirror-261": {
+      "region": "华北",
+      "url": "<code> www.917abpsif.dz083.org.cn </code>",
+      "scheme": "https",
+      "weight": 13
+    },
+    "mirror-262": {
+      "region": "香港",
+      "url": "<code> www.917avi.dz804.org.cn </code>",
+      "scheme": "https",
+      "weight": 1
+    },
+    "mirror-263": {
+      "region": "华东",
+      "url": "<code> www.917amfymj.dz873.org.cn </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-264": {
+      "region": "华东",
+      "url": "<code> www.917aqk.w0fz.org.cn </code>",
+      "scheme": "https",
+      "weight": 10
+    },
+    "mirror-265": {
+      "region": "华东",
+      "url": "<code> www.917aagi.pkdz88.org.cn </code>",
+      "scheme": "https",
+      "weight": 7
+    },
+    "mirror-266": {
+      "region": "华北",
+      "url": "<code> www.917anmbq.pkdz60.org.cn </code>",
+      "scheme": "http",
+      "weight": 16
+    },
+    "mirror-267": {
+      "region": "香港",
+      "url": "<code> www.917arobpu.pkdz16.org.cn </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-268": {
+      "region": "香港",
+      "url": "<code> www.917aysmud.pkdz14.org.cn </code>",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-269": {
+      "region": "新加坡",
+      "url": "<code> www.917acq.hhml08.org.cn </code>",
+      "scheme": "https",
+      "weight": 15
+    },
+    "mirror-270": {
+      "region": "华东",
+      "url": "<code> www.917abtytr.hhml17.org.cn </code>",
+      "scheme": "http",
+      "weight": 1
+    },
+    "mirror-271": {
+      "region": "新加坡",
+      "url": "<code> www.917arxv.hhml81.org.cn </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-272": {
+      "region": "新加坡",
+      "url": "<code> www.917abtnve.hpkj.org.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-273": {
+      "region": "华北",
+      "url": "<code> www.917aqmb.hpkn.org.cn </code>",
+      "scheme": "http",
+      "weight": 6
+    },
+    "mirror-274": {
+      "region": "华南",
+      "url": "<code> www.917azsm.pkhh32.org.cn </code>",
+      "scheme": "https",
+      "weight": 9
+    },
+    "mirror-275": {
+      "region": "新加坡",
+      "url": "<code> www.917amuydf.pkhh39.org.cn </code>",
+      "scheme": "http",
+      "weight": 8
+    },
+    "mirror-276": {
+      "region": "香港",
+      "url": "<code> www.917aijnur.pkhh22.org.cn </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-277": {
+      "region": "华东",
+      "url": "<code> www.917anmd.kxvfkyq.cn </code>",
+      "scheme": "https",
+      "weight": 11
+    },
+    "mirror-278": {
+      "region": "华南",
+      "url": "<code> www.917ajrn.qliidmh.cn </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-279": {
+      "region": "华南",
+      "url": "<code> www.917ahsyvrd.llayhb.cn </code>",
+      "scheme": "https",
+      "weight": 20
+    },
+    "mirror-280": {
+      "region": "新加坡",
+      "url": "<code> www.917acmrrql.uogymdm.cn </code>",
+      "scheme": "http",
+      "weight": 18
+    },
+    "mirror-281": {
+      "region": "香港",
+      "url": "<code> www.917amsf.kvqrqml.cn </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-282": {
+      "region": "香港",
+      "url": "<code> www.917apxqkkw.jvhtljk.cn </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-283": {
+      "region": "华东",
+      "url": "<code> www.917axa.exjkbtc.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-284": {
+      "region": "华北",
+      "url": "<code> www.917aykejjs.jslidko.cn </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-285": {
+      "region": "华东",
+      "url": "<code> www.917azxuc.dbaudpp.cn </code>",
+      "scheme": "http",
+      "weight": 3
+    },
+    "mirror-286": {
+      "region": "华南",
+      "url": "<code> www.917apxcdo.amycfwl.cn </code>",
+      "scheme": "http",
+      "weight": 17
+    },
+    "mirror-287": {
+      "region": "香港",
+      "url": "<code> www.917abnjrck.48a45c.cn </code>",
+      "scheme": "http",
+      "weight": 11
+    },
+    "mirror-288": {
+      "region": "华南",
+      "url": "<code> www.917apldco.88r76m.cn </code>",
+      "scheme": "https",
+      "weight": 19
+    },
+    "mirror-289": {
+      "region": "华南",
+      "url": "<code> www.917atlvu.fitac25.cn </code>",
+      "scheme": "http",
+      "weight": 4
+    },
+    "mirror-290": {
+      "region": "华东",
+      "url": "<code> www.917amk.bjtbe68.cn </code>",
+      "scheme": "https",
+      "weight": 8
+    },
+    "mirror-291": {
+      "region": "华东",
+      "url": "<code> www.917anyrqa.bhwyw15.cn </code>",
+      "scheme": "http",
+      "weight": 2
+    },
+    "mirror-292": {
+      "region": "香港",
+      "url": "<code> www.917aigbf.lyjig82.cn </code>",
+      "scheme": "https",
+      "weight": 3
+    },
+    "mirror-293": {
+      "region": "香港",
+      "url": "<code> www.917asoch.crspg45.cn </code>",
+      "scheme": "https",
+      "weight": 16
+    },
+    "mirror-294": {
+      "region": "华北",
+      "url": "<code> www.917awfmwd.qekwq15.cn </code>",
+      "scheme": "http",
+      "weight": 13
+    },
+    "mirror-295": {
+      "region": "华东",
+      "url": "<code> www.917awnirod.ixbvr79.cn </code>",
+      "scheme": "https",
+      "weight": 5
+    },
+    "mirror-296": {
+      "region": "香港",
+      "url": "<code> www.917aqwq.fpmyx16.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    },
+    "mirror-297": {
+      "region": "华东",
+      "url": "<code> www.917absib.yqrzj15.cn </code>",
+      "scheme": "https",
+      "weight": 14
+    },
+    "mirror-298": {
+      "region": "香港",
+      "url": "<code> www.917ahkppm.tyzgx06.cn </code>",
+      "scheme": "https",
+      "weight": 4
+    },
+    "mirror-299": {
+      "region": "华南",
+      "url": "<code> www.917auf.yfnlt05.cn </code>",
+      "scheme": "https",
+      "weight": 6
+    },
+    "mirror-300": {
+      "region": "新加坡",
+      "url": "<code> www.917adhbuno.nulim05.cn </code>",
+      "scheme": "http",
+      "weight": 15
+    }
+  }
+}
